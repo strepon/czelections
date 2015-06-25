@@ -1,0 +1,6254 @@
+lau	name	type
+554979	Abertamy	M
+531367	Adamov	O
+535826	Adamov	O
+581291	Adamov	M
+547786	Adršpach	O
+547981	Albrechtice	O
+598925	Albrechtice	O
+576077	Albrechtice nad Orlicí	O
+549258	Albrechtice nad Vltavou	O
+563528	Albrechtice v Jizerských horách	O
+568741	Albrechtičky	O
+506761	Alojzov	O
+538001	Andělská Hora	O
+551929	Andělská Hora	M
+573426	Anenská Studánka	O
+586030	Archlebov	O
+509388	Arneštovice	O
+586854	Arnolec	O
+562343	Arnoltice	O
+554499	Aš	M
+537241	Babice	O
+538043	Babice	O
+552356	Babice	O
+569828	Babice	O
+590274	Babice	O
+592013	Babice	O
+582794	Babice nad Svitavou	O
+582808	Babice u Rosic	O
+553433	Babylon	O
+561118	Bácovice	O
+553701	Bačalky	O
+576085	Bačetín	O
+590282	Bačice	O
+546194	Bačkov	O
+544833	Bačkovice	O
+535427	Bakov nad Jizerou	M
+595217	Baliny	O
+563251	Balkova Lhota	O
+572560	Banín	O
+592021	Bánov	O
+562726	Báňovice	O
+593729	Bantice	O
+569836	Barchov	O
+574724	Barchov	O
+533173	Barchovice	O
+599212	Bartošovice	O
+576093	Bartošovice v Orlických horách	O
+548260	Bartoušov	O
+588300	Bařice-Velké Těšany	O
+598011	Baška	O
+572667	Bašnice	O
+538051	Bašť	O
+586862	Batelov	T
+579041	Batňovice	O
+550809	Bavorov	M
+584304	Bavory	O
+534421	Bavoryně	O
+566756	Bdeněves	O
+565423	Bdín	O
+536156	Bečice	O
+563366	Bečice	O
+567043	Bečov	O
+554995	Bečov nad Teplou	M
+533181	Bečváry	O
+589268	Bedihošť	O
+562548	Bednárec	O
+561053	Bednáreček	O
+563536	Bedřichov	O
+581313	Bedřichov	O
+541842	Běhařov	O
+593737	Běhařovice	T
+572675	Běchary	O
+564575	Bechlín	O
+552054	Bechyně	M
+512974	Bělá	O
+561126	Bělá	O
+573566	Bělá	O
+576972	Bělá	O
+553441	Bělá nad Radbuzou	M
+572586	Bělá nad Svitavou	O
+535443	Bělá pod Bezdězem	M
+523917	Bělá pod Pradědem	O
+505391	Bělá u Jevíčka	O
+550817	Bělčice	O
+535010	Běleč	O
+560448	Běleč	O
+581321	Běleč	O
+569852	Běleč nad Orlicí	O
+500526	Bělkovice-Lašťany	O
+532070	Běloky	O
+512231	Bělotín	O
+588318	Bělov	O
+533190	Bělušice	O
+567051	Bělušice	O
+569861	Benátky	O
+577774	Benátky	O
+535451	Benátky nad Jizerou	M
+576981	Benecko	O
+529303	Benešov	M
+581330	Benešov	O
+545406	Benešov nad Černou	O
+562351	Benešov nad Ploučnicí	M
+576999	Benešov u Semil	O
+560723	Benešovice	O
+590304	Benetice	O
+512281	Beňov	O
+531111	Bernardov	O
+524891	Bernartice	O
+532568	Bernartice	O
+549266	Bernartice	T
+579050	Bernartice	O
+568481	Bernartice nad Odrou	O
+531057	Beroun	M
+537021	Běrunice	O
+532088	Beřovice	O
+545414	Besednice	T
+553760	Běstovice	O
+571181	Běstvina	O
+555797	Běšiny	O
+531073	Běštín	O
+574309	Bezděčí u Trnávky	O
+598895	Bezdědovice	O
+541095	Bezděkov	O
+548430	Bezděkov	O
+555801	Bezděkov	O
+574741	Bezděkov	O
+573884	Bezděkov nad Metují	O
+529672	Bezděkov pod Třemšínem	O
+561398	Bezděz	O
+560740	Bezdružice	M
+593745	Bezkov	O
+588326	Bezměrov	O
+535478	Bezno	T
+512401	Bezuchov	O
+558656	Bezvěrov	O
+563901	Bílá	O
+598020	Bílá	O
+565750	Bílá Hlína	O
+500623	Bílá Lhota	O
+579068	Bílá Třemešná	O
+525227	Bílá Voda	O
+597198	Bílčice	O
+533971	Bílé Podolí	T
+579076	Bílé Poličany	O
+562980	Bílence	O
+535125	Bílichov	O
+567451	Bílina	M
+530743	Bílkovice	O
+530239	Bílov	O
+546984	Bílov	O
+599247	Bílovec	M
+592030	Bílovice	O
+582824	Bílovice nad Svitavou	O
+589276	Bílovice-Lutotín	O
+550833	Bílsko	O
+552062	Bílsko	O
+548901	Bílsko u Hořic	O
+586889	Bílý Kámen	O
+563919	Bílý Kostel nad Nisou	O
+546631	Bílý Potok	O
+576107	Bílý Újezd	O
+578088	Biřkov	O
+582832	Biskoupky	O
+572519	Biskupice	O
+573949	Biskupice	O
+585076	Biskupice	O
+589284	Biskupice	O
+590312	Biskupice-Pulkov	O
+535486	Bítouchov	O
+554936	Bítov	O
+593753	Bítov	O
+505005	Bítovany	O
+586897	Bítovčice	O
+565997	Bitozeves	O
+593761	Blanné	O
+581283	Blansko	M
+561401	Blatce	O
+500801	Blatec	O
+550850	Blatná	M
+558672	Blatnice	O
+590321	Blatnice	O
+586048	Blatnice pod Svatým Antonínkem	O
+586056	Blatnička	O
+562998	Blatno	O
+566004	Blatno	O
+542318	Blazice	O
+561711	Blažejov	O
+532380	Blažejovice	O
+566012	Blažim	O
+566764	Blažim	O
+595241	Blažkov	O
+582841	Blažovice	O
+569879	Blešno	O
+532100	Blevice	O
+595250	Blízkov	O
+553450	Blížejov	O
+561410	Blíževedly	O
+593770	Blížkovice	T
+557587	Blovice	M
+566021	Blšany	M
+542547	Blšany u Loun	O
+582859	Blučina	O
+525588	Bludov	O
+530964	Bludov	O
+537039	Bobnice	O
+595268	Bobrová	T
+595276	Bobrůvka	O
+511633	Bocanovice	O
+572705	Boháňka	O
+569887	Boharyně	O
+592897	Bohaté Málkovice	O
+561428	Bohatice	O
+595284	Bohdalec	O
+592901	Bohdalice-Pavlovice	O
+547549	Bohdalín	O
+595292	Bohdalov	T
+536253	Bohdalovice	O
+533980	Bohdaneč	O
+576115	Bohdašín	O
+525804	Bohdíkov	O
+564559	Bohostice	O
+550116	Bohumilice	O
+599051	Bohumín	M
+537527	Bohunice	O
+577812	Bohuňov	O
+595306	Bohuňov	O
+500852	Bohuňovice	O
+577821	Bohuňovice	O
+506192	Bohuslavice	O
+525880	Bohuslavice	O
+573892	Bohuslavice	O
+586901	Bohuslavice	O
+589292	Bohuslavice	O
+557102	Bohuslavice nad Vláří	O
+585092	Bohuslavice u Zlína	O
+569178	Bohuslávky	O
+550400	Bohušice	O
+597201	Bohušov	O
+564591	Bohušovice nad Ohří	M
+593788	Bohutice	O
+525979	Bohutín	O
+539953	Bohutín	O
+566471	Bohy	O
+512532	Bochoř	O
+555029	Bochov	M
+590347	Bochovice	O
+571202	Bojanov	T
+539104	Bojanovice	O
+593796	Bojanovice	O
+568457	Bojiště	O
+592048	Bojkovice	M
+506214	Bolatice	O
+563005	Boleboř	O
+576123	Bolehošť	O
+584321	Boleradice	T
+555835	Bolešiny	O
+545422	Boletice	U
+540463	Bolkov	O
+573558	Boňkov	O
+560758	Bor	M
+547867	Bor u Skutče	O
+595314	Borač	O
+568431	Bordovice	O
+535508	Boreč	O
+534684	Borek	O
+544272	Borek	O
+548979	Borek	O
+568465	Borek	O
+574783	Borek	O
+584339	Borkovany	O
+552097	Borkovice	O
+576131	Borohrádek	M
+539970	Borotice	O
+593800	Borotice	O
+552101	Borotín	T
+581356	Borotín	O
+573906	Borová	O
+577839	Borová	O
+545902	Borová Lada	O
+544281	Borovany	M
+598780	Borovany	O
+587184	Borovná	O
+532096	Borovnice	O
+535681	Borovnice	O
+576140	Borovnice	O
+579092	Borovnice	O
+595322	Borovnice	O
+548821	Borovnička	O
+595331	Borovník	O
+566705	Borovno	O
+542156	Borovy	O
+592064	Boršice	O
+592056	Boršice u Blatnice	O
+586927	Boršov	O
+544299	Boršov nad Vltavou	O
+572632	Borušov	O
+595641	Bory	O
+538086	Bořanovice	O
+549690	Bořenovice	O
+561240	Bořetice	O
+584347	Bořetice	O
+509418	Bořetín	O
+562742	Bořetín	O
+571229	Bořice	O
+567469	Bořislav	O
+581364	Bořitov	O
+535516	Boseň	O
+581372	Boskovice	M
+593818	Boskovštejn	O
+550124	Bošice	O
+535401	Bošilec	O
+548006	Bošín	O
+592919	Bošovice	O
+562122	Boudy	O
+589306	Bousín	O
+571237	Bousov	O
+500861	Bouzov	O
+577006	Bozkov	O
+573914	Božanov	O
+547581	Božejov	T
+549291	Božetice	O
+506486	Boží Dar	M
+593826	Božice	O
+555045	Božičany	O
+552127	Bradáčov	O
+549100	Brada-Rybníček	O
+570788	Bradlec	O
+577014	Bradlecká Lhota	O
+530832	Brambory	O
+567060	Braňany	O
+567078	Brandov	O
+538094	Brandýs nad Labem-Stará Boleslav	M
+579947	Brandýs nad Orlicí	M
+532118	Brandýsek	O
+549304	Branice	O
+582875	Braníškov	O
+551490	Branišov	O
+593834	Branišovice	O
+554197	Branka u Opavy	O
+592927	Brankovice	T
+541648	Branky	O
+526169	Branná	O
+541672	Branov	O
+590363	Bransouze	O
+597210	Brantice	O
+571946	Branžež	O
+532126	Braškov	O
+531286	Bratčice	O
+582883	Bratčice	O
+539988	Bratkovice	O
+532142	Bratronice	O
+537063	Bratronice	O
+569437	Bratrušov	O
+585106	Bratřejov	O
+547603	Bratřice	O
+553107	Bratříkovice	O
+571199	Bratřínov	O
+556858	Bravantice	O
+538108	Brázdim	O
+539996	Brdy	U
+545431	Brloh	O
+574791	Brloh	O
+564613	Brňany	O
+577863	Brněnec	O
+530727	Brníčko	O
+566136	Brnířov	O
+561444	Brniště	O
+582786	Brno	S
+584355	Brod nad Dyjí	O
+541605	Brod nad Tichou	O
+535559	Brodce	T
+546895	Brodec	O
+589314	Brodek u Konice	O
+589322	Brodek u Prostějova	T
+512800	Brodek u Přerova	T
+566489	Brodeslavy	O
+541401	Broumov	O
+573922	Broumov	M
+531081	Broumy	O
+564621	Brozany nad Ohří	T
+586943	Brtnice	M
+590371	Brtnička	O
+581381	Brťov-Jeneč	O
+581402	Brumov	O
+585114	Brumov-Bylnice	M
+506320	Brumovice	O
+584363	Brumovice	O
+597180	Bruntál	M
+588377	Brusné	O
+598038	Brušperk	M
+598046	Bruzovice	O
+546755	Brzánky	O
+573931	Brzice	O
+586951	Brzkov	O
+559725	Břasy	O
+584291	Břeclav	M
+536059	Břehov	O
+574805	Břehy	O
+588385	Břest	O
+592072	Břestek	O
+548278	Břevnice	O
+595349	Březejc	O
+530018	Březí	O
+564869	Březí	O
+584371	Březí	O
+595357	Březí	O
+595365	Březí nad Oslavou	O
+507733	Březina	O
+535567	Březina	O
+549070	Březina	O
+559733	Březina	O
+577871	Březina	O
+592935	Březina	U
+581429	Březina (dříve okres Blansko)	O
+582891	Březina (dříve okres Tišnov)	O
+572250	Březinky	O
+577898	Březiny	O
+538744	Březnice	O
+540013	Březnice	M
+552135	Březnice	O
+590380	Březník	O
+535583	Březno	T
+563013	Březno	O
+592081	Březolupy	O
+506451	Březová	O
+531090	Březová	O
+537870	Březová	O
+560294	Březová	M
+585131	Březová	O
+592099	Březová	O
+505145	Březová nad Svitavou	M
+599735	Březová-Oleško	O
+599514	Březovice	O
+595381	Březské	O
+589331	Březsko	O
+585149	Březůvky	O
+541923	Břežany	O
+565041	Břežany	O
+593842	Břežany	O
+533211	Břežany I	O
+533220	Břežany II	O
+597228	Břidličná	M
+537047	Bříství	O
+548855	Bříšťany	O
+564648	Bříza	O
+566063	Břvany	O
+560308	Bublava	O
+531103	Bubovice	O
+558699	Bučí	O
+579963	Bučina	O
+592943	Bučovice	M
+548952	Budčeves	O
+546020	Budeč	O
+595390	Budeč	O
+555894	Budětice	O
+589349	Budětsko	O
+547638	Budíkov	O
+537055	Budiměřice	O
+552143	Budislav	O
+577910	Budislav	O
+546038	Budíškovice	O
+590401	Budišov	T
+506460	Budišov nad Budišovkou	M
+568261	Budišovice	O
+561576	Budkov	O
+590410	Budkov	O
+560171	Budyně	O
+564656	Budyně nad Ohří	M
+592102	Buchlovice	T
+545449	Bujanov	O
+559741	Bujesily	O
+512826	Buk	O
+537519	Buk	O
+595403	Bukov	O
+546372	Buková	O
+589357	Buková	O
+540021	Buková u Příbramě	O
+532924	Bukovany	O
+552402	Bukovany	O
+560316	Bukovany	O
+564664	Bukovany	O
+586072	Bukovany	O
+511935	Bukovec	O
+553506	Bukovec	O
+547751	Bukovice	O
+581437	Bukovice	O
+581445	Bukovina	O
+574813	Bukovina nad Labem	O
+577031	Bukovina u Čisté	O
+574821	Bukovina u Přelouče	O
+581453	Bukovinka	O
+574830	Bukovka	O
+530085	Bukovník	O
+535605	Bukovno	O
+573353	Bukvice	O
+584380	Bulhary	O
+563935	Bulovka	O
+561312	Buřenice	O
+540048	Buš	O
+550159	Bušanovice	O
+532894	Bušín	O
+559750	Bušovice	O
+532169	Buštěhrad	M
+549282	Butoves	O
+529966	Buzice	O
+546780	Býčkovice	O
+533238	Býchory	O
+534714	Býkev	O
+534145	Bykoš	O
+581461	Býkovice	O
+569607	Býkov-Láryšov	O
+571245	Bylany	O
+544647	Bynovec	O
+561801	Bystrá	O
+577049	Bystrá nad Jizerou	O
+576166	Bystré	O
+577928	Bystré	M
+500879	Bystročice	O
+547026	Bystrovany	O
+567477	Bystřany	O
+579971	Bystřec	O
+529451	Bystřice	M
+572772	Bystřice	O
+598062	Bystřice	O
+595411	Bystřice nad Pernštejnem	M
+588393	Bystřice pod Hostýnem	M
+592111	Bystřice pod Lopeníkem	O
+541711	Bystřička	O
+534722	Byšice	O
+512877	Býškovice	O
+595420	Býšovec	O
+574848	Býšť	O
+576174	Byzhradec	O
+586081	Bzenec	M
+531120	Bzová	O
+567485	Bžany	O
+560782	Cebiv	O
+550906	Cehnice	O
+586978	Cejle	O
+559768	Cekov	O
+509191	Cep	O
+572781	Cerekvice nad Bystřicí	O
+577936	Cerekvice nad Loučnou	O
+586986	Cerekvička-Rosice	O
+533246	Cerhenice	T
+549321	Cerhonice	O
+531138	Cerhovice	T
+588407	Cetechovice	O
+563943	Cetenov	O
+581470	Cetkovice	O
+547662	Cetoraz	O
+564419	Cetyně	O
+590428	Cidlina	O
+588016	Cikháj	O
+533998	Církvice	O
+599476	Církvice	O
+569135	Císařov	O
+560324	Citice	O
+542571	Cítoliby	T
+593851	Citonice	O
+512982	Citov	O
+534731	Cítov	O
+546054	Cizkrajov	O
+579980	Cotkytle	O
+554162	Crhov	O
+571253	Ctětín	O
+532690	Ctiboř	O
+579459	Ctiboř	O
+593869	Ctidružice	O
+570991	Ctiměřice	O
+564672	Ctiněves	O
+561479	Cvikov	M
+532185	Cvrčovice	O
+550272	Cvrčovice	O
+568490	Čachotín	O
+535621	Čachovice	O
+555941	Čachrov	T
+529478	Čakov	O
+535541	Čakov	O
+552003	Čaková	O
+598291	Čakovičky	O
+571270	Čankovice	O
+534005	Čáslav	M
+590436	Čáslavice	O
+547689	Čáslavsko	O
+560804	Částkov	O
+592137	Částkov	O
+553964	Častohostice	O
+576182	Častolovice	T
+547719	Častrov	O
+572799	Časy	O
+569119	Čavisov	O
+582913	Čebín	O
+534749	Čečelice	O
+510068	Čečelovice	O
+548375	Čečkovice	O
+566080	Čečovice	O
+589365	Čehovice	O
+590444	Čechočovice	O
+529486	Čechtice	T
+590452	Čechtín	O
+552771	Čechy	O
+589381	Čechy pod Kosířem	O
+586099	Čejč	O
+550922	Čejetice	O
+529524	Čejkovice	O
+544329	Čejkovice	O
+586102	Čejkovice	O
+593877	Čejkovice	O
+547735	Čejov	O
+598071	Čeladná	O
+538132	Čelákovice	M
+589390	Čelčice	O
+513059	Čelechovice	O
+589403	Čelechovice na Hané	O
+529826	Čelistná	O
+586111	Čeložnice	O
+558711	Čeminy	O
+540072	Čenkov	O
+598976	Čenkov u Bechyně	O
+579998	Čenkovice	O
+574856	Čeperka	O
+574864	Čepí	O
+550949	Čepřovice	O
+530581	Čeradice	O
+529516	Čerčany	O
+593885	Čermákovice	O
+553514	Čermná	O
+579106	Čermná	O
+576191	Čermná nad Orlicí	O
+569950	Čermná ve Slezsku	O
+595438	Černá	O
+581496	Černá Hora	T
+572896	Černá u Bohdanče	O
+545457	Černá v Pošumaví	O
+533491	Černá Voda	O
+538019	Černava	O
+542628	Černčice	O
+573957	Černčice	O
+533254	Černé Voděrady	O
+546852	Černěves	O
+587001	Černíč	O
+553531	Černíkov	O
+566632	Černíkovice	O
+576204	Černíkovice	O
+599301	Černíky	O
+569917	Černilov	O
+593893	Černín	O
+534013	Černíny	O
+564699	Černiv	O
+539121	Černolice	O
+539139	Černošice	M
+560812	Černošín	M
+513067	Černotín	O
+542423	Černouček	O
+545996	Černousy	O
+561142	Černov	O
+547760	Černovice	M
+563021	Černovice	O
+566098	Černovice	O
+581500	Černovice	O
+530328	Čerňovice	O
+569925	Černožice	O
+532207	Černuc	O
+595446	Černvír	O
+579114	Černý Důl	T
+563722	Černýšovice	O
+505099	Červená Hora	O
+590461	Červená Lhota	O
+547778	Červená Řečice	M
+548995	Červená Třemešná	O
+580015	Červená Voda	O
+534021	Červené Janovice	O
+533262	Červené Pečky	T
+542172	Červené Poříčí	O
+552186	Červenka	O
+509116	Červený Hrádek	O
+573965	Červený Kostelec	M
+529532	Červený Újezd	O
+532215	Červený Újezd	O
+582921	Česká	O
+568503	Česká Bělá	T
+558745	Česká Bříza	O
+573973	Česká Čermná	O
+562394	Česká Kamenice	M
+553549	Česká Kubice	O
+561380	Česká Lípa	M
+573981	Česká Metuje	O
+580023	Česká Rybná	O
+573990	Česká Skalice	M
+580031	Česká Třebová	M
+569356	Česká Ves	O
+544256	České Budějovice	S
+580040	České Heřmanice	O
+571296	České Lhotice	O
+580058	České Libchavy	O
+576212	České Meziříčí	O
+580066	České Petrovice	O
+546089	České Velenice	M
+533271	Český Brod	M
+563960	Český Dub	M
+567108	Český Jiřetín	O
+545392	Český Krumlov	M
+546097	Český Rudolec	O
+529541	Český Šternberk	T
+598933	Český Těšín	M
+550957	Čestice	T
+576221	Čestice	O
+534030	Čestín	O
+538141	Čestlice	O
+572811	Češov	O
+550965	Číčenice	O
+539147	Číčovice	O
+590479	Číhalín	O
+542024	Číhaň	O
+568520	Číhošť	O
+506621	Čichalov	O
+590487	Číchov	O
+590495	Čikov	O
+540927	Čilá	O
+599671	Čilec	O
+540081	Čím	O
+549339	Čimelice	O
+546101	Číměř	O
+590509	Číměř	O
+578495	Čímice	O
+537080	Činěves	O
+539155	Čisovice	O
+535630	Čistá	O
+541699	Čistá	O
+577944	Čistá	O
+577057	Čistá u Horek	O
+569933	Čistěves	O
+557641	Čižice	O
+557650	Čížkov	O
+598704	Čížkov	O
+564711	Čížkovice	O
+551503	Čížkrajice	O
+587117	Čížov	O
+549347	Čížová	O
+550167	Čkyně	O
+561703	Člunek	O
+578568	Čmelíny	O
+544531	Čtveřín	O
+529567	Čtyřkoly	O
+582930	Čučice	O
+546127	Dačice	M
+595454	Dalečín	O
+540099	Daleké Dušníky	O
+530425	Dalešice	O
+590517	Dalešice	T
+537918	Dalovice	O
+570818	Dalovice	O
+586129	Dambořice	O
+593907	Damnice	O
+580074	Damníkov	O
+595462	Daňkovice	O
+568228	Darkovice	O
+552445	Daskabát	O
+560332	Dasnice	O
+535249	Dasný	O
+574899	Dašice	M
+539163	Davle	T
+582948	Deblín	T
+564729	Děčany	O
+562335	Děčín	S
+590525	Dědice	O
+571300	Dědová	O
+561924	Dehtáře	O
+568236	Děhylov	O
+532746	Děkanovice	O
+565181	Děkov	O
+538116	Děpoltovice	O
+563552	Desná	M
+572357	Desná	O
+556041	Dešenice	T
+546143	Dešná	O
+585157	Dešná	O
+590533	Dešov	O
+546151	Deštná	M
+581518	Deštná	O
+576247	Deštné v Orlických horách	O
+566128	Deštnice	O
+572829	Dětenice	O
+589420	Dětkovice	O
+592978	Dětkovice	O
+598941	Dětmarovice	O
+546607	Dětřichov	O
+577961	Dětřichov	O
+597252	Dětřichov nad Bystřicí	O
+572683	Dětřichov u Moravské Třebové	O
+549118	Dílce	O
+553557	Díly	O
+552208	Dírná	O
+584401	Diváky	O
+551864	Dívčí Hrad	O
+529753	Dívčí Kopy	O
+544361	Dívčice	O
+569941	Divec	O
+529621	Divišov	T
+564737	Dlažkovice	O
+556068	Dlažov	O
+587010	Dlouhá Brtnice	O
+513504	Dlouhá Lhota	O
+535656	Dlouhá Lhota	O
+563650	Dlouhá Lhota	O
+581526	Dlouhá Lhota	O
+501476	Dlouhá Loučka	O
+577987	Dlouhá Loučka	O
+551708	Dlouhá Stráň	O
+548014	Dlouhá Třebová	O
+556076	Dlouhá Ves	O
+568538	Dlouhá Ves	O
+595471	Dlouhé	O
+533688	Dlouhomilov	O
+548031	Dlouhoňovice	O
+537098	Dlouhopolsko	O
+530468	Dlouhý Most	O
+560839	Dlouhý Újezd	O
+557668	Dnešice	O
+593923	Dobelice	O
+549363	Dobev	O
+562408	Dobkovice	O
+598089	Dobrá	O
+561932	Dobrá Voda	O
+595489	Dobrá Voda	O
+535206	Dobrá Voda u Českých Budějovic	O
+572837	Dobrá Voda u Hořic	O
+561762	Dobrá Voda u Pacova	O
+552542	Dobratice	O
+513105	Dobrčice	O
+576263	Dobré	O
+584410	Dobré Pole	O
+585165	Dobrkovice	O
+545783	Dobrná	O
+592986	Dobročkovice	O
+565008	Dobročovice	O
+562416	Dobrohošť	O
+589438	Dobrochov	O
+546861	Dobroměřice	O
+589446	Dobromilice	O
+552224	Dobronice u Bechyně	O
+587028	Dobronín	O
+569895	Dobroslavice	O
+587036	Dobroutov	O
+535672	Dobrovice	M
+529559	Dobrovítov	O
+539171	Dobrovíz	O
+530123	Dobršín	O
+576271	Dobruška	M
+557676	Dobřany	M
+576280	Dobřany	O
+538167	Dobřejovice	O
+531570	Dobřeň	O
+569968	Dobřenice	O
+539180	Dobříč	O
+558770	Dobříč	O
+533289	Dobřichov	O
+539198	Dobřichovice	M
+580091	Dobříkov	O
+564745	Dobříň	O
+593931	Dobřínsko	O
+540111	Dobříš	M
+559776	Dobřív	O
+536199	Dobšice	O
+537101	Dobšice	O
+546941	Dobšice	O
+571989	Dobšín	O
+569976	Dohalice	O
+564753	Doksany	O
+532223	Doksy	O
+561495	Doksy	M
+553646	Dolánky nad Ohří	O
+501646	Dolany	O
+513130	Dolany	O
+539201	Dolany	O
+556106	Dolany	O
+558788	Dolany	O
+574015	Dolany	O
+574902	Dolany	O
+539945	Dolce	O
+593958	Dolenice	O
+541800	Dolní Bečva	O
+558796	Dolní Bělá	O
+506702	Dolní Benešov	M
+534765	Dolní Beřkovice	O
+505030	Dolní Bezděkov	O
+586137	Dolní Bojanovice	O
+535702	Dolní Bousov	M
+579122	Dolní Branná	O
+554863	Dolní Brusnice	O
+539210	Dolní Břežany	O
+544388	Dolní Bukovsko	T
+587044	Dolní Cerekev	T
+580112	Dolní Čermná	T
+580121	Dolní Dobrouč	O
+598101	Dolní Domaslavice	O
+593966	Dolní Dubňany	O
+584428	Dolní Dunajovice	O
+545465	Dolní Dvořiště	O
+579149	Dolní Dvůr	O
+545856	Dolní Habartice	O
+540129	Dolní Hbity	O
+595501	Dolní Heřmanice	O
+552241	Dolní Hořice	O
+558800	Dolní Hradiště	O
+560529	Dolní Hrachovice	O
+533297	Dolní Chvatliny	O
+579157	Dolní Kalná	O
+582956	Dolní Kounice	M
+529648	Dolní Kralovice	O
+535711	Dolní Krupá	O
+568597	Dolní Krupá	O
+579165	Dolní Lánov	O
+587664	Dolní Lažany	O
+506711	Dolní Lhota	O
+585173	Dolní Lhota	O
+595519	Dolní Libochová	O
+549088	Dolní Lochov	O
+511951	Dolní Lomná	O
+595527	Dolní Loučky	O
+557684	Dolní Lukavice	O
+598968	Dolní Lutyně	O
+568601	Dolní Město	O
+580163	Dolní Morava	O
+597287	Dolní Moravice	O
+592145	Dolní Němčí	O
+569259	Dolní Nětčice	O
+560341	Dolní Nivy	O
+562301	Dolní Novosedly	O
+579173	Dolní Olešnice	O
+562467	Dolní Pěna	O
+562432	Dolní Podluží	O
+531260	Dolní Pohleď	O
+562441	Dolní Poustevna	M
+569984	Dolní Přím	O
+574023	Dolní Radechová	O
+574911	Dolní Roveň	O
+595535	Dolní Rožínka	O
+538591	Dolní Rychnov	O
+563994	Dolní Řasnice	O
+574929	Dolní Ředice	O
+535729	Dolní Slivno	O
+548448	Dolní Sokolovec	O
+570940	Dolní Stakory	O
+553379	Dolní Studénky	O
+552984	Dolní Těšice	O
+552607	Dolní Tošanovice	O
+545473	Dolní Třebonín	O
+513199	Dolní Újezd	O
+577995	Dolní Újezd	O
+584436	Dolní Věstonice	O
+590550	Dolní Vilémovice	O
+587061	Dolní Vilímeč	O
+567931	Dolní Zálezly	O
+531987	Dolní Zimoř	O
+554502	Dolní Žandov	O
+562602	Dolní Žďár	O
+553051	Dolní Životice	O
+568392	Doloplazy	O
+589454	Doloplazy	O
+590568	Domamil	O
+562840	Domanín	O
+586145	Domanín	O
+513181	Dománovice	O
+563048	Domašín	O
+582964	Domašov	O
+545279	Domašov nad Bystřicí	O
+552313	Domašov u Šternberka	O
+513211	Domaželice	O
+553425	Domažlice	M
+578517	Domoraz	O
+535745	Domousnice	O
+566152	Domoušice	O
+507610	Doňov	O
+564885	Doubek	O
+530417	Doubice	O
+568864	Doubrava	O
+533301	Doubravčice	O
+535664	Doubravice	O
+550981	Doubravice	O
+579181	Doubravice	O
+581542	Doubravice nad Svitavou	T
+571067	Doubravička	O
+595551	Doubravník	T
+585181	Doubravy	O
+544400	Doudleby	O
+576301	Doudleby nad Orlicí	T
+587079	Doupě	O
+501751	Drahanovice	O
+589462	Drahany	T
+531146	Drahelčice	O
+599298	Drahenice	O
+540251	Drahkov	O
+540145	Drahlín	O
+532151	Drahňovice	O
+564681	Drahobudice	O
+564770	Drahobuz	O
+551015	Drahonice	O
+595560	Drahonín	O
+530379	Drahoňův Újezd	O
+535958	Drahotěšice	O
+553573	Drahotín	O
+529711	Drahouš	O
+563765	Drahov	O
+560219	Drachkov	O
+552275	Dráchov	O
+540153	Drásov	O
+582972	Drásov	T
+578665	Dražeň	O
+553581	Draženov	O
+552283	Dražice	O
+549371	Dražíč	O
+552291	Dražičky	O
+551023	Drážov	O
+566683	Dražovice	O
+592994	Dražovice	O
+586153	Dražůvky	O
+540170	Drevníky	O
+563307	Drhovice	O
+549380	Drhovle	O
+540188	Drhovy	O
+554511	Drmoul	O
+512991	Drnek	O
+584444	Drnholec	T
+581551	Drnovice	O
+585190	Drnovice	O
+593001	Drnovice	O
+531341	Drobovice	O
+560243	Droužetice	O
+563056	Droužkovice	O
+531154	Drozdov	O
+570141	Drozdov	O
+537187	Drslavice	O
+592153	Drslavice	O
+568619	Druhanov	O
+560987	Drunče	O
+558834	Druztová	O
+532274	Družec	O
+593010	Drysice	O
+563561	Držkov	O
+585203	Držková	O
+558419	Držovice	O
+504301	Dřenice	O
+551040	Dřešín	O
+532282	Dřetovice	O
+538191	Dřevčice	O
+573337	Dřevěnice	O
+589489	Dřevnovice	O
+513229	Dřevohostice	T
+532291	Dřínov	O
+534773	Dřínov	O
+588431	Dřínov	O
+534781	Dřísy	O
+574953	Dříteč	O
+544426	Dříteň	O
+550183	Dub	T
+501794	Dub nad Moravou	T
+561533	Dubá	M
+572977	Dubany	O
+552071	Dubčany	O
+579190	Dubenec	O
+598381	Dubenec	O
+567507	Dubí	M
+534927	Dubicko	O
+535788	Dubičné	O
+540218	Dublovice	O
+586161	Dubňany	M
+544442	Dubné	O
+561541	Dubnice	O
+564508	Dubno	O
+551546	Dubovice	O
+587087	Dudín	O
+567515	Duchcov	M
+590576	Dukovany	O
+529869	Důl	O
+562815	Dunajovice	O
+532843	Dunice	O
+587095	Dušejov	O
+564818	Dušníky	O
+504955	Dvakačovice	O
+506729	Dvorce	O
+597317	Dvorce	O
+537110	Dvory	O
+537144	Dvory	O
+509141	Dvory nad Lužnicí	O
+579203	Dvůr Králové nad Labem	M
+593974	Dyjákovice	O
+593982	Dyjákovičky	O
+593991	Dyje	O
+587109	Dyjice	O
+537128	Dymokury	O
+544451	Dynín	O
+558851	Dýšina	O
+589497	Dzbel	O
+594008	Džbánice	O
+580210	Džbánov	O
+559792	Ejpovice	O
+560855	Erpužice	O
+561754	Eš	O
+564834	Evaň	O
+531162	Felbabka	O
+562637	Frahelž	O
+542644	Francova Lhota	O
+545899	Františkov nad Ploučnicí	O
+554529	Františkovy Lázně	M
+599344	Frenštát pod Radhoštěm	M
+598135	Fryčovice	O
+598003	Frýdek-Místek	S
+564028	Frýdlant	M
+598143	Frýdlant nad Ostravicí	M
+563579	Frýdštejn	O
+545481	Frymburk	T
+578525	Frymburk	O
+595578	Fryšava pod Žákovou horou	O
+585211	Fryšták	M
+599352	Fulnek	M
+568635	Golčův Jeníkov	M
+594016	Grešlové Mýto	O
+574325	Gruna	O
+599450	Grunta	O
+501841	Grygov	O
+569194	Grymov	O
+564036	Habartice	O
+560359	Habartov	M
+567957	Habrovany	O
+593028	Habrovany	O
+581569	Habrůvka	O
+568651	Habry	M
+535575	Habří	O
+569992	Habřina	O
+549967	Hačky	O
+562696	Hadravova Rosička	O
+567523	Háj u Duchcova	O
+506753	Háj ve Slezsku	O
+551597	Hajany	O
+582999	Hajany	O
+598402	Háje	O
+577073	Háje nad Jizerou	O
+538159	Hájek	O
+561690	Hájek	O
+579211	Hajnice	O
+562807	Halámky	O
+542679	Halenkov	O
+585220	Halenkovice	O
+585238	Haluzice	O
+560863	Halže	O
+562386	Hamr	O
+544337	Hamr na Jezeře	O
+571377	Hamry	O
+578240	Hamry	O
+595586	Hamry nad Sázavou	O
+552178	Haňovice	O
+535532	Hanušovice	M
+577081	Harrachov	M
+572284	Hartinkov	O
+536075	Hartmanice	O
+556181	Hartmanice	M
+578037	Hartmanice	O
+590584	Hartvíkovice	O
+563625	Haškovcova Lhota	O
+568210	Hať	O
+546291	Hatín	O
+555088	Havířov	S
+568660	Havlíčkova Borová	T
+568414	Havlíčkův Brod	M
+579220	Havlovice	O
+567141	Havraň	O
+594024	Havraníky	O
+554545	Hazlov	O
+541796	Hejná	O
+564044	Hejnice	M
+580228	Hejnice	O
+574031	Hejtmánkovice	O
+548049	Helvíkovice	O
+568678	Herálec	O
+595594	Herálec	O
+590592	Heraltice	T
+564915	Herink	O
+583014	Heroltice	O
+550213	Heršpice	O
+549398	Heřmaň	O
+598593	Heřmaň	O
+546305	Heřmaneč	O
+544353	Heřmanice	O
+548596	Heřmanice	O
+574040	Heřmanice	O
+568562	Heřmanice u Oder	O
+529702	Heřmaničky	O
+574058	Heřmánkovice	O
+568571	Heřmánky	O
+562483	Heřmanov	O
+595608	Heřmanov	O
+558869	Heřmanova Huť	O
+597325	Heřmanovice	O
+571385	Heřmanův Městec	M
+594032	Hevlín	O
+569666	Hladké Životice	O
+587125	Hladov	O
+560481	Hlasivo	O
+531171	Hlásná Třebaň	O
+552330	Hlásnice	O
+535851	Hlavatce	O
+552321	Hlavatce	O
+574961	Hlavečník	O
+565989	Hlavenec	O
+564052	Hlavice	O
+553093	Hlavnice	O
+556203	Hlavňovice	O
+583022	Hlína	O
+566390	Hlince	O
+598607	Hlincová Hora	O
+551872	Hlinka	O
+564842	Hlinná	O
+569267	Hlinsko	O
+571393	Hlinsko	M
+531197	Hlízov	O
+553620	Hlohová	O
+566641	Hlohovčice	O
+584452	Hlohovec	O
+559806	Hlohovice	O
+593036	Hlubočany	O
+568368	Hlubočec	O
+502146	Hlubočky	O
+571407	Hluboká	O
+544485	Hluboká nad Vltavou	M
+590614	Hluboké	O
+581577	Hluboké Dvory	O
+594041	Hluboké Mašůvky	O
+540242	Hluboš	O
+564605	Hlubyně	O
+507016	Hlučín	M
+589501	Hluchov	O
+592170	Hluk	M
+536628	Hlupín	O
+570001	Hlušice	O
+552020	Hlušovice	O
+542083	Hnačov	O
+594059	Hnanice	O
+580261	Hnátnice	O
+570010	Hněvčeves	O
+568694	Hněvkovice	O
+530221	Hněvnice	O
+507105	Hněvošice	O
+502235	Hněvotín	O
+502405	Hnojice	O
+598160	Hnojník	O
+513075	Hobšovice	O
+593044	Hodějice	O
+598992	Hodětín	O
+587141	Hodice	O
+595624	Hodíškov	O
+564061	Hodkovice nad Mohelkou	M
+562904	Hodonice	O
+594067	Hodonice	O
+547794	Hodonín	O
+581593	Hodonín	O
+586021	Hodonín	M
+590622	Hodov	O
+599409	Hodslavice	O
+547883	Hojanovice	O
+587150	Hojkov	O
+561096	Hojovice	O
+561584	Holany	T
+583031	Holasice	O
+507113	Holasovice	O
+597341	Holčovice	O
+566187	Holedeč	O
+577111	Holenice	O
+588458	Holešov	M
+571440	Holetín	O
+574988	Holice	M
+572900	Holín	O
+570028	Holohlavy	O
+573019	Holotín	O
+559814	Holoubkov	O
+566730	Holovousy	O
+572918	Holovousy	O
+581615	Holštejn	O
+539228	Holubice	O
+550825	Holubice	O
+545490	Holubov	O
+553654	Holýšov	M
+544493	Homole	O
+567973	Homole u Panny	O
+571458	Honbice	O
+542342	Honětice	O
+540668	Honezovice	O
+567167	Hora Svaté Kateřiny	M
+563064	Hora Svatého Šebestiána	O
+566276	Hora Svatého Václava	O
+556254	Horažďovice	M
+564257	Horčápsko	O
+571466	Horka	O
+531430	Horka I	O
+534056	Horka II	O
+502545	Horka nad Moravou	O
+574201	Horka u Staré Paky	O
+531359	Horky	O
+578053	Horky	O
+535818	Horky nad Jizerou	O
+542687	Horní Bečva	O
+558877	Horní Bělá	O
+597350	Horní Benešov	M
+564851	Horní Beřkovice	O
+532312	Horní Bezděkov	O
+555169	Horní Blatná	M
+598178	Horní Bludovice	O
+584461	Horní Bojanovice	O
+571474	Horní Bradlo	O
+577120	Horní Branná	O
+579238	Horní Brusnice	O
+594075	Horní Břečkov	O
+558885	Horní Bříza	M
+535834	Horní Bukovina	O
+547913	Horní Cerekev	M
+580279	Horní Čermná	O
+512192	Horní Domaslavice	O
+587168	Horní Dubenky	O
+594083	Horní Dubňany	O
+594091	Horní Dunajovice	O
+545503	Horní Dvořiště	O
+545929	Horní Habartice	O
+580295	Horní Heřmanice	O
+590631	Horní Heřmanice	O
+574996	Horní Jelení	M
+567175	Horní Jiřetín	M
+579254	Horní Kalná	O
+553662	Horní Kamenice	O
+536105	Horní Kněžeklady	O
+594105	Horní Kounice	O
+541290	Horní Kozolupy	O
+568708	Horní Krupá	O
+533327	Horní Kruty	O
+588474	Horní Lapač	O
+569500	Horní Lhota	O
+585246	Horní Lhota	O
+561592	Horní Libchava	O
+595659	Horní Libochová	O
+542725	Horní Lideč	O
+569798	Horní Loděnice	O
+511986	Horní Lomná	O
+595667	Horní Loučky	O
+539821	Horní Lukavice	O
+579262	Horní Maršov	O
+597368	Horní Město	O
+598658	Horní Meziříčko	O
+513491	Horní Moštěnice	O
+587206	Horní Myslová	O
+592188	Horní Němčí	O
+562785	Horní Němčice	O
+569275	Horní Nětčice	O
+579271	Horní Olešnice	O
+548243	Horní Paseka	O
+546364	Horní Pěna	O
+545511	Horní Planá	M
+534790	Horní Počaply	O
+562505	Horní Podluží	O
+561606	Horní Police	O
+536881	Horní Poříčí	O
+581631	Horní Poříčí	O
+574066	Horní Radechová	O
+546381	Horní Radouň	O
+595675	Horní Radslavice	O
+551589	Horní Rápotice	O
+595683	Horní Rožínka	O
+564079	Horní Řasnice	O
+575011	Horní Ředice	O
+546763	Horní Řepčice	O
+561061	Horní Skrýchov	O
+562319	Horní Slatina	O
+560367	Horní Slavkov	M
+599531	Horní Slivno	O
+550612	Horní Smrčné	O
+513695	Horní Smržov	O
+544515	Horní Stropnice	O
+535770	Horní Studénky	O
+552739	Horní Suchá	O
+589519	Horní Štěpánov	O
+552968	Horní Těšice	O
+552631	Horní Tošanovice	O
+580333	Horní Třešňovec	O
+569542	Horní Újezd	O
+572365	Horní Újezd	O
+590649	Horní Újezd	O
+547930	Horní Ves	O
+584479	Horní Věstonice	O
+590657	Horní Vilémovice	O
+550205	Horní Vltavice	O
+551805	Horní Životice	O
+590665	Hornice	O
+536369	Hornosín	O
+539236	Horoměřice	O
+561525	Horosedly	O
+538221	Horoušany	O
+542091	Horská Kvilda	O
+557722	Horšice	O
+553671	Horšovský Týn	M
+531481	Horušice	O
+551651	Hory	O
+534854	Hořany	O
+537152	Hořátev	O
+547531	Hořenice	O
+547948	Hořepník	O
+541729	Hořesedly	O
+532321	Hořešovice	O
+535150	Hořešovičky	O
+547956	Hořice	O
+572926	Hořice	M
+545520	Hořice na Šumavě	O
+574074	Hořičky	O
+534803	Hořín	O
+570044	Hořiněves	O
+531189	Hořovice	M
+541737	Hořovičky	O
+544523	Hosín	O
+551104	Hoslovice	O
+532339	Hospozín	O
+546402	Hospříz	O
+568511	Hostašovice	O
+592196	Hostějov	O
+583057	Hostěnice	O
+594113	Hostěradice	O
+593052	Hostěrádky-Rešov	O
+587192	Hostětice	O
+550736	Hostětín	O
+594121	Hostim	O
+531499	Hostín	O
+531928	Hostín u Vojkovic	O
+579297	Hostinné	M
+585254	Hostišová	O
+539244	Hostivice	M
+531201	Hostomice	M
+567531	Hostomice	T
+532347	Hostouň	O
+553689	Hostouň	M
+534064	Hostovlice	O
+535524	Hosty	O
+542750	Hošťálková	O
+597392	Hošťálkovy	O
+571482	Hošťalovice	O
+535885	Hoštejn	O
+551121	Hoštice	O
+588482	Hoštice	O
+593061	Hoštice-Heroltice	O
+564877	Hoštka	M
+560898	Hošťka	O
+542768	Hovězí	O
+586170	Hovorany	O
+538230	Hovorčovice	O
+553387	Hraběšice	O
+531413	Hraběšín	O
+594130	Hrabětice	O
+536091	Hrabišín	O
+553221	Hrabová	O
+513636	Hrabůvka	O
+507261	Hrabyně	O
+535460	Hradce	O
+513733	Hradčany	O
+537161	Hradčany	O
+583065	Hradčany	O
+589527	Hradčany-Kobeřice	O
+592200	Hradčovice	O
+557731	Hradec	O
+568724	Hradec	O
+569810	Hradec Králové	S
+507270	Hradec nad Moravicí	M
+572691	Hradec nad Svitavou	O
+553301	Hradec-Nová Ves	O
+532355	Hradečno	O
+512176	Hrádek	O
+547972	Hrádek	O
+556301	Hrádek	O
+559822	Hrádek	M
+570052	Hrádek	O
+594148	Hrádek	O
+564095	Hrádek nad Nisou	M
+556319	Hradešice	O
+564800	Hradešín	O
+532932	Hradiště	O
+541001	Hradiště	O
+555177	Hradiště	U
+557749	Hradiště	O
+566179	Hradiště	O
+537179	Hradištko	O
+539252	Hradištko	O
+550221	Hracholusky	O
+565202	Hracholusky	O
+562831	Hrachoviště	O
+513750	Hranice	M
+544540	Hranice	O
+554553	Hranice	M
+546976	Hraničné Petrovice	O
+549410	Hrazany	O
+598232	Hrčava	O
+544558	Hrdějovice	O
+589535	Hrdibořice	O
+532363	Hrdlív	O
+535869	Hrdlořezy	O
+549428	Hrejkovice	O
+567558	Hrob	M
+564893	Hrobce	O
+567566	Hrobčice	O
+575046	Hrobice	O
+585262	Hrobice	O
+571491	Hrochův Týnec	M
+558915	Hromnice	O
+574082	Hronov	M
+590673	Hrotovice	M
+571504	Hroubovice	O
+550639	Hroznatín	O
+555185	Hroznětín	M
+586188	Hroznová Lhota	O
+577146	Hrubá Skála	O
+586196	Hrubá Vrbka	O
+589543	Hrubčice	O
+599638	Hrubý Jeseník	O
+538248	Hrusice	O
+543543	Hruška	O
+584487	Hrušky	O
+593079	Hrušky	O
+565733	Hrušov	O
+580341	Hrušová	O
+563072	Hrušovany	O
+594156	Hrušovany nad Jevišovkou	M
+583081	Hrušovany u Brna	O
+590681	Hrutov	O
+532371	Hřebeč	O
+541761	Hřebečníky	O
+531219	Hředle	O
+541770	Hředle	O
+562513	Hřensko	O
+548642	Hřibiny-Ledská	O
+579301	Hřibojedy	O
+540285	Hřiměždice	O
+546445	Hříšice	O
+566195	Hříškov	O
+566217	Hřivice	O
+585271	Hřivínův Újezd	O
+587222	Hubenov	O
+513580	Hudčice	O
+531227	Hudlice	O
+598691	Hukvaldy	O
+529737	Hulice	O
+588491	Hulín	M
+570087	Humburky	O
+547999	Humpolec	M
+562521	Huntířov	O
+559849	Hůrky	O
+530646	Hurtova Lhota	O
+535753	Hůry	O
+599522	Husí Lhota	O
+538256	Husinec	O
+550230	Husinec	M
+542784	Huslenky	O
+584495	Hustopeče	M
+513768	Hustopeče nad Bečvou	T
+592218	Huštěnovice	O
+542814	Hutisko-Solanec	O
+597414	Huzová	O
+593087	Hvězdlice	T
+529745	Hvězdonice	O
+590690	Hvězdoňovice	O
+558931	Hvozd	O
+565334	Hvozd	O
+589560	Hvozd	O
+531235	Hvozdec	O
+535613	Hvozdec	O
+583090	Hvozdec	O
+585289	Hvozdná	O
+539261	Hvozdnice	O
+573621	Hvozdnice	O
+540315	Hvožďany	O
+566331	Hvožďany	O
+550281	Hybrálec	O
+574163	Hynčice	O
+536113	Hynčina	O
+531243	Hýskov	O
+586200	Hýsly	O
+568007	Chabařovice	M
+534081	Chabeřice	O
+531251	Chaloupky	O
+556335	Chanovice	O
+565784	Charvatce	O
+568872	Charváty	O
+532886	Chářovice	O
+563081	Chbany	O
+554481	Cheb	M
+551139	Chelčice	O
+559857	Cheznovice	O
+512923	Chlebičov	O
+532878	Chleby	O
+599620	Chleby	O
+576310	Chleny	O
+556343	Chlistov	O
+532045	Chlístov	O
+548791	Chlístov	O
+590703	Chlístov	O
+534099	Chlístovice	O
+529770	Chlum	O
+529982	Chlum	O
+540803	Chlum	O
+557773	Chlum	O
+561614	Chlum	O
+590711	Chlum	O
+560375	Chlum Svaté Maří	O
+546461	Chlum u Třeboně	T
+550248	Chlumany	O
+557781	Chlumčany	O
+566233	Chlumčany	O
+536229	Chlumec	O
+568015	Chlumec	M
+570109	Chlumec nad Cidlinou	M
+595713	Chlumek	O
+595721	Chlumětín	O
+534820	Chlumín	O
+595705	Chlum-Korouhvice	O
+540307	Chlumy	O
+534455	Chlustina	O
+572730	Chmelík	O
+529788	Chmelná	O
+536903	Chobot	O
+580350	Choceň	M
+557803	Chocenice	O
+529796	Chocerady	O
+535923	Chocnějovice	O
+553727	Chocomyšl	O
+534447	Chodouň	O
+564923	Chodouny	O
+553735	Chodov	O
+560383	Chodov	M
+578011	Chodov	O
+560901	Chodová Planá	T
+564931	Chodovlice	O
+553743	Chodská Lhota	O
+560910	Chodský Újezd	O
+549355	Cholenice	O
+502839	Cholina	O
+575054	Choltice	T
+541141	Chomle	O
+572969	Chomutice	O
+562971	Chomutov	S
+588504	Chomýž	O
+532606	Choratice	O
+578096	Chornice	O
+534838	Chorušice	O
+542831	Choryně	O
+537217	Choťánky	O
+568759	Chotěboř	M
+550477	Chotěbudice	O
+555291	Chotěbuz	O
+539287	Choteč	O
+549037	Choteč	O
+575062	Choteč	O
+552453	Chotěmice	O
+578100	Chotěnov	O
+537225	Chotěšice	O
+557838	Chotěšov	O
+564940	Chotěšov	O
+535931	Chotětov	T
+579319	Chotěvice	O
+558940	Chotíkov	O
+540323	Chotilsko	O
+564958	Chotiměř	O
+564966	Chotiněves	O
+561622	Chotovice	O
+578118	Chotovice	O
+534994	Choťovice	O
+552461	Chotoviny	O
+534102	Chotusice	O
+533343	Chotutice	O
+535907	Chotýčany	O
+564109	Chotyně	O
+529818	Chotýšany	O
+552470	Choustník	O
+579327	Choustníkovo Hradiště	O
+566241	Chožov	O
+546429	Chraberce	O
+571539	Chrast	M
+537233	Chrást	O
+558966	Chrást	O
+564249	Chrást	O
+564117	Chrastava	M
+578126	Chrastavec	O
+553751	Chrastavice	O
+532037	Chrášťany	O
+533351	Chrášťany	O
+539295	Chrášťany	O
+541818	Chrášťany	O
+544591	Chrášťany	O
+540358	Chraštice	O
+551155	Chrášťovice	O
+563145	Chrbonín	O
+550264	Chroboly	O
+569305	Chromeč	O
+588512	Chropyně	M
+534706	Chroustov	O
+571547	Chroustovice	T
+568767	Chrtníč	O
+572764	Chrtníky	O
+581534	Chrudichromy	O
+571164	Chrudim	M
+533670	Chrustenice	O
+532398	Chržín	O
+573574	Chřenovice	O
+562530	Chřibská	M
+558974	Chříč	O
+583111	Chudčice	O
+556378	Chudenice	T
+556386	Chudenín	O
+568023	Chuderov	O
+570125	Chudeřice	O
+571849	Chudíř	O
+546810	Chudoslavice	O
+577154	Chuchelna	O
+507334	Chuchelná	O
+594164	Chvalatice	O
+506737	Chvalčov	O
+579335	Chvaleč	O
+557846	Chválenice	O
+575071	Chvaletice	M
+569909	Chvalíkovice	O
+574112	Chvalkovice	O
+593095	Chvalkovice	O
+588547	Chvalnov-Lísky	O
+537420	Chvalovice	O
+594172	Chvalovice	O
+545546	Chvalšiny	O
+534846	Chvatěruby	O
+575089	Chvojenec	O
+549223	Chyjice	O
+531294	Chyňava	O
+539309	Chýně	O
+513431	Chýnice	O
+552496	Chýnov	M
+561339	Chýstovice	O
+555207	Chyše	M
+549452	Chyšky	O
+561321	Chyšná	O
+575097	Chýšť	O
+584517	Ivaň	O
+589578	Ivaň	O
+583120	Ivančice	M
+593117	Ivanovice na Hané	M
+535966	Jabkenice	O
+581666	Jabloňany	O
+577162	Jablonec nad Jizerou	M
+563510	Jablonec nad Nisou	S
+540374	Jablonná	O
+580376	Jablonné nad Orlicí	M
+561631	Jablonné v Podještědí	M
+595730	Jabloňov	O
+542865	Jablůnka	O
+598259	Jablunkov	M
+548782	Jahodov	O
+555215	Jáchymov	M
+507377	Jakartovice	O
+554065	Jakubčovice nad Odrou	O
+590746	Jakubov u Moravských Budějovic	O
+553344	Jakubovice	O
+592226	Jalubí	O
+587249	Jamné	O
+580392	Jamné nad Orlicí	O
+594181	Jamolice	O
+595756	Jámy	O
+529842	Jankov	O
+544612	Jankov	O
+561461	Jankov	O
+575101	Jankovice	O
+588555	Jankovice	O
+592234	Jankovice	O
+553212	Janoušov	O
+544680	Janov	O
+565270	Janov	O
+576328	Janov	O
+578134	Janov	O
+597431	Janov	M
+563595	Janov nad Nisou	O
+570346	Janová	O
+507423	Janovice	O
+556394	Janovice nad Úhlavou	M
+561657	Janovice v Podještědí	O
+530395	Janská	O
+579351	Janské Lázně	M
+546658	Janův Důl	O
+578142	Janůvky	O
+542903	Jarcová	O
+588563	Jarohněvice	O
+574121	Jaroměř	M
+578151	Jaroměřice	O
+590754	Jaroměřice nad Rokytnou	M
+575119	Jaroslav	O
+594199	Jaroslavice	O
+578169	Jarošov	O
+546500	Jarošov nad Nežárkou	O
+558982	Jarov	O
+578541	Jarov	O
+532401	Jarpice	O
+590762	Jasenice	O
+574139	Jasenná	O
+585301	Jasenná	O
+541869	Javor	O
+595748	Javorek	O
+576336	Javornice	O
+529851	Javorník	O
+536148	Javorník	M
+572713	Javorník	O
+580406	Javorník	O
+586218	Javorník	O
+583154	Javůrek	O
+568783	Jedlá	O
+562963	Jedlany	O
+536288	Jedlí	O
+578185	Jedlová	O
+532410	Jedomělice	O
+575127	Jedousov	O
+581682	Jedovnice	T
+580414	Jehnědí	O
+590789	Jemnice	M
+532428	Jemníky	O
+505528	Jenčice	O
+539317	Jeneč	O
+547816	Jeníkov	O
+567582	Jeníkov	O
+570133	Jeníkovice	O
+575135	Jeníkovice	O
+537926	Jenišov	O
+563609	Jenišovice	O
+571563	Jenišovice	O
+538264	Jenštejn	O
+587265	Jersín	O
+572993	Jeřice	O
+568805	Jeřišno	O
+530484	Jeřmanice	O
+589586	Jesenec	O
+539325	Jesenice	O
+540391	Jesenice	O
+541834	Jesenice	M
+536385	Jeseník	M
+599468	Jeseník nad Odrou	O
+577171	Jesenný	O
+585319	Jestřabí	O
+533360	Jestřabí Lhota	O
+577189	Jestřabí v Krkonoších	O
+536393	Jestřebí	O
+561665	Jestřebí	O
+574147	Jestřebí	O
+532134	Ješetice	O
+549479	Jetětice	O
+574155	Jetřichov	O
+562556	Jetřichovice	O
+533378	Jevany	O
+578193	Jevíčko	M
+531871	Jeviněves	O
+594202	Jevišovice	M
+584525	Jevišovka	O
+575143	Jezbořice	O
+547191	Jezdkovice	O
+587273	Jezdovice	O
+556998	Jezernice	O
+594211	Jezeřany-Maršovice	O
+587281	Ježená	O
+593125	Ježkovice	O
+548073	Ježov	O
+586226	Ježov	O
+541753	Ježovy	O
+562084	Jickovice	O
+572659	Jičín	M
+573001	Jičíněves	O
+586846	Jihlava	S
+587290	Jihlávka	O
+537250	Jíkev	O
+548413	Jilem	O
+562769	Jilem	O
+577197	Jilemnice	M
+562564	Jílové	M
+563617	Jílové u Držkova	O
+539333	Jílové u Prahy	M
+544639	Jílovice	O
+576352	Jílovice	O
+539341	Jíloviště	O
+546011	Jimlín	O
+595772	Jimramov	T
+583171	Jinačovice	O
+540404	Jince	T
+513873	Jindřichov	O
+536521	Jindřichov	O
+597449	Jindřichov	O
+560413	Jindřichovice	O
+587303	Jindřichovice	O
+564133	Jindřichovice pod Smrkem	O
+545881	Jindřichův Hradec	M
+551163	Jinín	O
+539350	Jinočany	O
+549151	Jinolice	O
+590797	Jinošov	O
+550591	Jiratice	O
+563099	Jirkov	M
+538272	Jirny	O
+546585	Jiřetín pod Bukovou	O
+562572	Jiřetín pod Jedlovou	O
+548081	Jiřice	O
+599581	Jiřice	O
+594229	Jiřice u Miroslavi	O
+550841	Jiřice u Moravských Budějovic	O
+562581	Jiříkov	M
+597457	Jiříkov	O
+583189	Jiříkovice	O
+552534	Jistebnice	M
+599506	Jistebník	O
+546216	Jitkov	O
+531308	Jivina	O
+535974	Jivina	O
+579378	Jívka	O
+535761	Jivno	O
+503142	Jívová	O
+595802	Jívoví	O
+537268	Jizbice	O
+566039	Jizerní Vtelno	O
+511587	Josefov	O
+586234	Josefov	O
+529613	Josefův Důl	O
+563633	Josefův Důl	O
+549312	Kacákova Lhota	O
+577201	Kacanovy	O
+558991	Kaceřov	O
+560421	Kaceřov	O
+534129	Kácov	T
+532444	Kačice	O
+562491	Kačlehy	O
+563102	Kadaň	M
+531774	Kadlín	O
+595811	Kadolec	O
+551180	Kadov	O
+594237	Kadov	O
+595829	Kadov	O
+545554	Kájov	O
+579017	Kakejcov	O
+563111	Kalek	O
+536946	Kalenice	O
+587320	Kalhov	O
+538281	Kaliště	O
+548090	Kaliště	O
+587338	Kaliště	O
+565440	Kalivody	O
+595837	Kaly	O
+531031	Kamberk	O
+546453	Kámen	O
+548103	Kámen	O
+568821	Kámen	O
+566811	Kamenec	O
+578207	Kamenec u Poličky	O
+538299	Kamenice	O
+587346	Kamenice	T
+548111	Kamenice nad Lipou	M
+561681	Kamenický Šenov	M
+571571	Kameničky	O
+580422	Kameničná	O
+535982	Kamenná	O
+536571	Kamenná	O
+587362	Kamenná	O
+590801	Kamenná	O
+578215	Kamenná Horka	O
+568848	Kamenná Lhota	O
+537276	Kamenné Zboží	O
+532452	Kamenné Žehrovice	O
+598631	Kamenný Malíkov	O
+513032	Kamenný Most	O
+539368	Kamenný Přívoz	O
+541150	Kamenný Újezd	O
+544663	Kamenný Újezd	O
+546771	Kamýk	O
+540439	Kamýk nad Vltavou	O
+566144	Kanice	O
+583197	Kanice	O
+553778	Kaničky	O
+531651	Kanina	O
+585327	Kaňovice	O
+598275	Kaňovice	O
+545562	Kaplice	M
+570150	Káranice	O
+564974	Káraný	O
+546542	Kardašova Řečice	M
+572748	Karle	O
+599727	Karlík	O
+586242	Karlín	O
+595845	Karlov	O
+597473	Karlova Studánka	O
+565288	Karlova Ves	O
+577219	Karlovice	O
+587052	Karlovice	O
+597481	Karlovice	O
+554961	Karlovy Vary	S
+531316	Karlštejn	T
+587354	Karolín	O
+542911	Karolinka	M
+598917	Karviná	S
+559903	Kařez	O
+530361	Kařízek	O
+575151	Kasalice	O
+557862	Kasejovice	M
+585343	Kašava	O
+550256	Kašnice	O
+556432	Kašperské Hory	M
+542946	Kateřinice	O
+568643	Kateřinice	O
+530042	Katov	O
+587907	Katov	O
+551201	Katovice	T
+536008	Katusice	O
+559008	Kaznějov	M
+513415	Kbel	O
+557871	Kbel	O
+538183	Kbelany	O
+549169	Kbelnice	O
+590819	Kdousov	O
+553786	Kdyně	M
+565016	Keblice	O
+529907	Keblov	O
+541826	Kejnice	O
+548120	Kejžlice	O
+542989	Kelč	M
+586251	Kelčany	O
+592251	Kelníky	O
+549487	Kestřany	O
+583201	Ketkovice	O
+559911	Klabava	O
+542997	Kladeruby	O
+590827	Kladeruby nad Oslavou	O
+589594	Kladky	O
+569283	Kladníky	O
+532053	Kladno	S
+571580	Kladno	O
+533084	Kladruby	O
+559920	Kladruby	O
+560405	Kladruby	O
+560928	Kladruby	M
+567604	Kladruby	O
+575178	Kladruby nad Labem	O
+570168	Klamoš	O
+565024	Klapý	O
+557897	Klášter	O
+536024	Klášter Hradiště nad Jizerou	O
+563129	Klášterec nad Ohří	M
+580431	Klášterec nad Orlicí	O
+571687	Klášterní Skalice	O
+579386	Klášterská Lhota	O
+587371	Klatovec	O
+555771	Klatovy	M
+562688	Klec	O
+538311	Klecany	M
+553794	Klenčí pod Čerchovem	T
+565032	Kleneč	O
+541851	Klenová	O
+563986	Klenovice	O
+589608	Klenovice na Hané	O
+584541	Klentnice	O
+573787	Klešice	O
+538329	Klíčany	O
+599549	Klimkovice	M
+571211	Klínec	O
+567191	Klíny	O
+584550	Klobouky u Brna	M
+532461	Klobuky	O
+514047	Klokočí	O
+577227	Klokočí	O
+513628	Klokočná	O
+568856	Klokočov	O
+536687	Klopina	O
+589616	Klopotovice	O
+540447	Klučenice	O
+533386	Klučov	O
+590835	Klučov	O
+534137	Kluky	O
+549495	Kluky	O
+571075	Kluky	O
+534897	Kly	O
+532479	Kmetiněves	O
+586269	Kněždub	O
+539384	Kněževes	O
+541877	Kněževes	T
+581721	Kněževes	O
+595853	Kněževes	O
+537292	Kněžice	O
+574007	Kněžice	O
+590843	Kněžice	O
+551481	Kněžičky	O
+536041	Kněžmost	O
+573043	Kněžnice	O
+592269	Kněžpole	O
+587389	Knínice	O
+581739	Knínice u Boskovic	T
+598461	Kňovice	O
+532487	Knovíz	O
+548286	Knyk	O
+548146	Koberovice	O
+563641	Koberovy	O
+507504	Kobeřice	O
+593141	Kobeřice u Brna	O
+557218	Kobylá nad Vidnavkou	O
+584568	Kobylí	O
+573710	Kobylice	O
+531405	Kobylnice	O
+571172	Kobylnice	O
+583219	Kobylnice	O
+564141	Kobyly	O
+579394	Kocbeře	O
+536601	Kocelovice	O
+578231	Koclířov	O
+571610	Kočí	O
+578771	Kočín	O
+541559	Kočov	O
+579408	Kohoutov	O
+536067	Kochánky	O
+548529	Kochánov	O
+590851	Kojatice	O
+510645	Kojatín	O
+593150	Kojátky	O
+598712	Kojčice	O
+538345	Kojetice	O
+590860	Kojetice	O
+514055	Kojetín	M
+568881	Kojetín	O
+575194	Kojice	O
+541494	Kokašice	O
+514152	Kokory	O
+534901	Kokořín	O
+537306	Kolaje	O
+580465	Koldín	O
+532495	Koleč	O
+565199	Kolešov	O
+541893	Kolešovice	O
+533165	Kolín	M
+556467	Kolinec	T
+570974	Kolomuty	O
+555258	Kolová	O
+553816	Koloveč	T
+536733	Kolšov	O
+588598	Komárno	O
+531324	Komárov	T
+547123	Komárov	O
+549436	Komárov	O
+599280	Komárov	O
+590878	Komárovice	O
+535877	Komařice	O
+592277	Komňa	O
+507237	Komorní Lhotka	O
+548162	Komorovice	O
+593168	Komořany	O
+533394	Konárovice	O
+529931	Kondrac	O
+573051	Konecchlumí	O
+531332	Koněprusy	O
+590886	Koněšín	O
+531553	Konětopy	O
+589624	Konice	M
+564761	Konojedy	O
+560952	Konstantinovy Lázně	O
+573060	Kopidlno	M
+559024	Kopidlo	O
+553247	Kopřivná	O
+599565	Kopřivnice	M
+599204	Korkyně	O
+579033	Kornatice	O
+533793	Korno	O
+594253	Korolupy	O
+578258	Korouhev	O
+595861	Koroužné	O
+567221	Korozluky	O
+578266	Koruna	O
+588601	Koryčany	M
+559032	Koryta	O
+599557	Koryta	O
+592285	Korytná	O
+581755	Kořenec	O
+533408	Kořenice	O
+563668	Kořenov	O
+570176	Kosice	O
+570184	Kosičky	O
+570826	Kosmonosy	M
+539392	Kosoř	O
+536121	Kosořice	O
+574449	Kosořín	O
+536814	Kosov	O
+540498	Kosova Hora	O
+588521	Kostelany	O
+592293	Kostelany nad Moravou	O
+503916	Kostelec	O
+548928	Kostelec	O
+586277	Kostelec	O
+587401	Kostelec	O
+589632	Kostelec na Hané	M
+533416	Kostelec nad Černými lesy	M
+534935	Kostelec nad Labem	M
+576361	Kostelec nad Orlicí	M
+549509	Kostelec nad Vltavou	O
+571628	Kostelec u Heřmanova Městce	O
+588610	Kostelec u Holešova	O
+538370	Kostelec u Křížků	O
+576387	Kostelecké Horky	O
+536130	Kostelní Hlavno	O
+537314	Kostelní Lhota	O
+587419	Kostelní Myslová	O
+509108	Kostelní Radouň	O
+508357	Kostelní Vydří	O
+575232	Kostěnice	O
+584576	Kostice	O
+590894	Kostníky	O
+529630	Kostomlátky	O
+537331	Kostomlaty nad Labem	O
+567612	Kostomlaty pod Milešovkou	O
+565059	Kostomlaty pod Řípem	O
+507458	Košařiska	O
+566047	Košátky	O
+548171	Košetice	O
+551465	Košice	O
+552585	Košice	O
+537349	Košík	O
+592307	Košíky	O
+562955	Košín	O
+577235	Košťálov	O
+567621	Košťany	M
+566284	Koštice	O
+513555	Kotenčice	O
+595870	Kotlasy	O
+534072	Kotopeky	O
+540633	Kotovice	O
+581763	Kotvrdovice	O
+537357	Kounice	T
+541907	Kounov	O
+576395	Kounov	O
+529681	Koupě	O
+533424	Kouřim	M
+553824	Kout na Šumavě	O
+534943	Kouty	O
+548189	Kouty	O
+590908	Kouty	O
+548944	Kovač	O
+583227	Kovalovice	O
+589641	Koválovice-Osíčany	O
+571971	Kováň	O
+572012	Kovanec	O
+537373	Kovanice	O
+549517	Kovářov	O
+563137	Kovářská	T
+578177	Kovčín	O
+581771	Kozárov	O
+540536	Kozárovice	O
+550108	Kozlany	O
+590916	Kozlany	O
+568899	Kozlov	O
+587427	Kozlov	O
+595888	Kozlov	O
+540200	Kozlovice	O
+598321	Kozlovice	O
+530557	Kozly	O
+546232	Kozly	O
+529940	Kozmice	O
+547182	Kozmice	O
+533432	Kozojedy	O
+559041	Kozojedy	O
+565385	Kozojedy	O
+572136	Kozojedy	O
+586285	Kozojídky	O
+559059	Kozolupy	O
+571792	Kozomín	O
+545309	Kožichovice	O
+559067	Kožlany	M
+561550	Kožlí	O
+568902	Kožlí	O
+503304	Kožušany-Tážaly	O
+593184	Kožušice	O
+565067	Krabčice	O
+548618	Kraborovice	O
+587435	Krahulčí	O
+550710	Krahulov	O
+560456	Krajková	O
+536342	Krajníčko	O
+565351	Krakov	O
+533441	Krakovany	O
+565369	Krakovec	O
+589659	Kralice na Hané	T
+590941	Kralice nad Oslavou	O
+570192	Králíky	O
+580481	Králíky	M
+549525	Králova Lhota	O
+576409	Králova Lhota	O
+530808	Královec	O
+559075	Kralovice	M
+535109	Královice	O
+560464	Královské Poříčí	O
+534951	Kralupy nad Vltavou	M
+533203	Králův Dvůr	M
+557943	Kramolín	O
+590959	Kramolín	O
+574546	Kramolna	O
+551261	Kraselov	O
+593192	Krásensko	O
+580490	Krasíkov	O
+561371	Krasíkovice	O
+560472	Kraslice	M
+538795	Krásná	O
+549673	Krásná	O
+568929	Krásná Hora	O
+540552	Krásná Hora nad Vltavou	M
+562611	Krásná Lípa	M
+536164	Krásná Ves	O
+571652	Krásné	O
+595896	Krásné	O
+555304	Krásné Údolí	M
+595900	Krásněves	O
+538337	Krásno	M
+566306	Krásný Dvůr	O
+564168	Krásný Les	O
+578045	Krásný Les	O
+587443	Krasonice	O
+597511	Krasov	O
+581780	Krasová	O
+536806	Krašlovice	O
+559083	Krašovice	O
+568937	Krátká Ves	O
+583235	Kratochvilka	O
+570206	Kratonohy	O
+560634	Krátošice	O
+537136	Kratušín	O
+507580	Kravaře	M
+561720	Kravaře	O
+594261	Kravsko	O
+552437	Krčmaň	O
+536954	Krejnice	O
+529958	Krhanice	O
+581798	Krhov	O
+590967	Krhov	O
+500062	Krhová	O
+594270	Krhovice	O
+534153	Krchleby	O
+537390	Krchleby	O
+548685	Krchleby	O
+569372	Krchleby	O
+598348	Krmelín	O
+529974	Krňany	O
+597520	Krnov	M
+536172	Krnsko	O
+590975	Krokočín	O
+588296	Kroměříž	M
+561738	Krompach	O
+536181	Kropáčova Vrutice	O
+541940	Kroučová	O
+571661	Krouna	O
+559091	Krsy	O
+563030	Krtov	O
+598500	Krty	O
+536555	Krty-Hradec	O
+568945	Krucemburk	T
+577243	Kruh	O
+589667	Krumsín	O
+584584	Krumvíř	O
+533459	Krupá	O
+541966	Krupá	O
+567639	Krupka	M
+541974	Krušovice	O
+568180	Kružberk	O
+599484	Krychnov	O
+566314	Kryry	M
+564176	Kryštofovo Údolí	O
+563315	Kryštofovy Hamry	O
+548201	Křeč	O
+533467	Křečhoř	O
+537403	Křečkov	O
+529991	Křečovice	O
+586960	Křekov	O
+554901	Křelov-Břuchotín	O
+548219	Křelovice	O
+559105	Křelovice	O
+545571	Křemže	T
+534960	Křenek	O
+556505	Křenice	O
+564991	Křenice	O
+578274	Křenov	O
+562181	Křenovice	O
+569143	Křenovice	O
+593214	Křenovice	O
+553832	Křenovy	O
+540579	Křepenice	O
+584592	Křepice	O
+594288	Křepice	O
+534161	Křesetice	O
+565075	Křesín	O
+565083	Křešice	O
+540587	Křešín	O
+548227	Křešín	O
+581801	Křetín	O
+572861	Křičeň	O
+587842	Křídla	O
+550086	Křídlůvky	O
+563161	Křimov	O
+537411	Křinec	T
+574171	Křinice	O
+561673	Křišťanov	O
+597538	Křišťanovice	O
+541982	Křivoklát	T
+530000	Křivsoudov	T
+595918	Křižánky	O
+509752	Křižanov	O
+595926	Křižanov	T
+547824	Křižanovice	O
+593222	Křižanovice	O
+593231	Křižanovice u Vyškova	O
+564184	Křižany	O
+595934	Křižínkov	O
+538418	Křížkový Újezdec	O
+554596	Křižovatka	O
+595951	Křoví	O
+581810	Křtěnov	O
+581828	Křtiny	T
+552780	Křtomil	O
+571717	Kšely	O
+560979	Kšice	O
+550329	Ktiš	O
+547484	Ktová	O
+531375	Kublov	O
+563978	Kubova Huť	O
+594296	Kubšice	O
+593249	Kučerov	O
+549541	Kučeř	O
+592323	Kudlovice	O
+594300	Kuchařovice	O
+555312	Kujavy	O
+572594	Kukle	O
+595969	Kuklík	O
+579416	Kuks	O
+581836	Kulířov	O
+570214	Kunčice	O
+579424	Kunčice nad Labem	O
+598356	Kunčice pod Ondřejníkem	O
+578282	Kunčina	O
+581844	Kunčina Ves	O
+595977	Kundratice	O
+559121	Kunějovice	O
+548570	Kunemil	O
+573515	Kunětice	O
+538426	Kunice	O
+581852	Kunice	O
+581861	Kuničky	O
+568546	Kunín	O
+588628	Kunkovice	O
+543021	Kunovice	O
+550744	Kunovice	M
+530026	Kuňovice	O
+530433	Kunratice	O
+546330	Kunratice	O
+561746	Kunratice u Cvikova	O
+581879	Kunštát	M
+580503	Kunvald	T
+546615	Kunžak	O
+583243	Kupařovice	O
+555282	Kurdějov	O
+550302	Kuroslepy	O
+588636	Kurovice	O
+583251	Kuřim	M
+560391	Kuřimany	O
+595985	Kuřimská Nová Ves	O
+595993	Kuřimské Jestřabí	O
+533955	Kutná Hora	M
+571512	Kutrovice	O
+586293	Kuželov	O
+588644	Kvasice	O
+576425	Kvasiny	O
+536750	Kváskovice	O
+541931	Kvášňovice	O
+568953	Květinov	O
+578291	Květná	O
+564982	Květnice	O
+598801	Květov	O
+553841	Kvíčovice	O
+550337	Kvilda	O
+532517	Kvílice	O
+546259	Kvítkov	O
+529729	Kvítkovice	O
+572047	Kyje	O
+548308	Kyjov	O
+586307	Kyjov	M
+596001	Kyjov	O
+512907	Kyjovice	O
+594318	Kyjovice	O
+568970	Kynice	O
+560499	Kynšperk nad Ohří	M
+555347	Kyselka	O
+588652	Kyselovice	O
+532525	Kyšice	O
+559130	Kyšice	O
+565091	Kyškovice	O
+571261	Kytín	O
+562645	Kytlice	O
+544701	Labská Stráň	O
+575259	Labské Chrčice	O
+586315	Labuty	O
+543098	Lačnov	O
+558443	Ladná	O
+567647	Lahošť	O
+548804	Lampertice	O
+594326	Lančov	O
+579432	Lánov	O
+580511	Lanškroun	M
+504807	Lány	O
+541991	Lány	O
+548481	Lány	O
+572845	Lány u Dašic	O
+584622	Lanžhot	M
+579441	Lanžov	O
+546623	Lásenice	O
+589675	Laškov	O
+542008	Lašovice	O
+596019	Lavičky	O
+578304	Lavičné	O
+510556	Láz	O
+540625	Láz	O
+581887	Lazinov	O
+573094	Lázně Bělohrad	M
+574767	Lázně Bohdaneč	M
+554600	Lázně Kynžvart	M
+564206	Lázně Libverda	O
+538914	Lázně Toušeň	T
+514446	Lazníčky	O
+514471	Lazníky	O
+564346	Lazsko	O
+583260	Lažánky	O
+598950	Lažánky	O
+545937	Lažany	O
+560197	Lažany	O
+581909	Lažany	O
+550345	Lažiště	O
+533939	Lážovice	O
+561649	Lčovice	O
+532533	Ledce	O
+536202	Ledce	O
+559148	Ledce	O
+576433	Ledce	O
+583278	Ledce	O
+534978	Ledčice	O
+568988	Ledeč nad Sázavou	M
+534170	Ledečko	O
+544736	Ledenice	T
+584631	Lednice	O
+567655	Ledvice	M
+588661	Lechotice	O
+594334	Lechovice	O
+570222	Lejšovka	O
+583286	Lelekovice	O
+566322	Lenešice	O
+550353	Lenora	O
+544264	Leskovec	O
+597546	Leskovec nad Moravicí	O
+548235	Leskovice	O
+561002	Lesná	O
+562041	Lesná	O
+590983	Lesná	O
+594342	Lesná	O
+583294	Lesní Hluboké	O
+590991	Lesní Jakubov	O
+537284	Lesnice	O
+591009	Lesonice	O
+594351	Lesonice	O
+561011	Lestkov	O
+573485	Lesůňky	O
+530051	Lešany	O
+589683	Lešany	O
+513521	Lešetice	O
+568996	Leškovice	O
+544302	Lešná	O
+537713	Leština	O
+571695	Leština	O
+569011	Leština u Světlé	O
+571709	Leštinka	O
+557951	Letiny	O
+540561	Letkov	O
+580538	Letohrad	M
+593257	Letonice	O
+581917	Letovice	M
+539406	Lety	O
+549568	Lety	O
+565105	Levín	T
+577375	Levínská Olešnice	O
+591025	Lhánice	O
+550361	Lhenice	T
+513041	Lhota	O
+514497	Lhota	O
+534986	Lhota	O
+573434	Lhota	O
+574180	Lhota pod Hořičkami	O
+570231	Lhota pod Libčany	O
+567001	Lhota pod Radčem	O
+581925	Lhota Rapotina	O
+581933	Lhota u Lysic	O
+581941	Lhota u Olešnice	O
+598411	Lhota u Příbramě	O
+556866	Lhota u Vsetína	O
+561282	Lhota-Vlasenice	O
+544876	Lhotice	O
+514527	Lhotka	O
+531898	Lhotka	O
+533335	Lhotka	O
+587451	Lhotka	O
+596035	Lhotka	O
+598364	Lhotka	O
+565113	Lhotka nad Labem	O
+553115	Lhotka u Litultovic	O
+559946	Lhotka u Radnic	O
+536211	Lhotky	O
+549550	Lhotsko	O
+576441	Lhoty u Potštejna	O
+578606	Lhůta	O
+554618	Libá	O
+573108	Libáň	M
+503941	Libavá	U
+560502	Libavské Údolí	O
+570249	Libčany	O
+566349	Libčeves	O
+539414	Libčice nad Vltavou	M
+580562	Libecina	O
+563188	Libědice	O
+535001	Liběchov	M
+563544	Libějice	O
+551333	Libějovice	O
+548651	Libel	O
+533475	Libenice	O
+563889	Liberec	S
+576450	Liberk	O
+539422	Libeř	O
+565121	Liběšice	O
+566357	Liběšice	O
+536831	Libětice	O
+538442	Líbeznice	O
+530069	Libež	O
+500046	Libhošť	O
+580147	Libchavy	O
+547701	Libchyně	O
+537438	Libice nad Cidlinou	O
+569020	Libice nad Doubravou	T
+544744	Libín	O
+539961	Libina	O
+571784	Libiš	O
+575305	Libišany	O
+553859	Libkov	O
+571725	Libkov	O
+598721	Libkova Voda	O
+565148	Libkovice pod Řípem	O
+531502	Liblice	O
+559954	Liblín	T
+579475	Libňatov	O
+535800	Libníč	O
+570257	Libníkovice	O
+530590	Libočany	O
+533483	Libodřice	O
+565156	Libochovany	O
+565164	Libochovice	M
+564150	Libochovičky	O
+571733	Liboměřice	O
+531448	Libomyšl	O
+566381	Libořice	O
+569003	Liboš	O
+573116	Libošovice	O
+565172	Libotenice	O
+579483	Libotov	O
+568058	Libouchec	O
+571601	Libovice	O
+570265	Librantice	O
+570273	Libřice	O
+577294	Libštát	T
+573124	Libuň	O
+532576	Libušín	M
+547832	Licibořice	O
+576468	Lično	O
+544370	Lidečko	O
+532584	Lidice	O
+561100	Lidmaň	O
+580571	Lichkov	O
+597554	Lichnov	O
+599603	Lichnov	O
+571326	Lichoceves	O
+559164	Líně	O
+578339	Linhartice	O
+549622	Lípa	O
+569038	Lípa	O
+576476	Lípa nad Orlicí	O
+513270	Lipec	O
+544761	Lipí	O
+552305	Lipina	O
+540005	Lipinka	O
+569046	Lipnice nad Sázavou	O
+565563	Lipník	O
+591041	Lipník	O
+514705	Lipník nad Bečvou	M
+566403	Lipno	O
+545597	Lipno nad Vltavou	O
+575313	Lipoltice	O
+586323	Lipov	O
+514772	Lipová	O
+554626	Lipová	O
+562661	Lipová	O
+586871	Lipová	O
+589691	Lipová	O
+540030	Lipová-lázně	O
+547875	Lipovec	O
+581950	Lipovec	O
+537071	Lipovice	O
+544396	Liptál	O
+597571	Liptaň	O
+581968	Lipůvka	O
+596051	Lísek	O
+573086	Lískovice	O
+571555	Líský	O
+540064	Lisov	O
+542016	Lišany	O
+566411	Lišany	O
+570290	Lišice	O
+540617	Líšina	O
+514802	Líšná	O
+559962	Líšná	O
+596060	Líšná	O
+567248	Lišnice	O
+539457	Líšnice	O
+540161	Líšnice	O
+580589	Líšnice	O
+563676	Líšný	O
+544779	Lišov	M
+546879	Líšťany	O
+559172	Líšťany	O
+566420	Líté	O
+531456	Liteň	T
+588695	Litenčice	T
+546470	Litíč	O
+532258	Litichovice	O
+573388	Litoboř	O
+594369	Litobratřice	O
+553611	Litohlavy	O
+550507	Litohoř	O
+561266	Litohošť	O
+551341	Litochovice	O
+564567	Litoměřice	M
+578347	Litomyšl	M
+583308	Litostrov	O
+575330	Litošice	O
+591068	Litovany	O
+503444	Litovel	M
+507920	Litultovice	T
+567256	Litvínov	M
+544795	Litvínovice	O
+546691	Lkáň	O
+551350	Lnáře	O
+531677	Lobeč	O
+545708	Lobendava	O
+515191	Lobodice	O
+544809	Ločenice	O
+531464	Loděnice	O
+594377	Loděnice	O
+546666	Lodhéřov	O
+570303	Lodín	O
+570311	Lochenice	O
+566462	Lochousice	O
+531472	Lochovice	O
+530093	Loket	O
+560537	Loket	M
+536822	Lom	O
+563587	Lom	O
+567264	Lom	M
+541702	Lom u Tachova	O
+578070	Lomec	O
+560545	Lomnice	O
+581976	Lomnice	T
+597589	Lomnice	O
+546674	Lomnice nad Lužnicí	M
+577308	Lomnice nad Popelkou	M
+583316	Lomnička	O
+587605	Lomy	O
+592340	Lopeník	O
+558001	Losiná	O
+533505	Lošany	O
+540196	Loštice	M
+535095	Loucká	O
+552232	Loučany	O
+537446	Loučeň	T
+553867	Loučim	O
+544418	Loučka	O
+552038	Loučka	O
+585432	Loučka	O
+573400	Loučky	O
+540226	Loučná nad Desnou	O
+546518	Loučná pod Klínovcem	M
+545601	Loučovice	O
+553875	Louka	O
+586331	Louka	O
+567272	Louka u Litvínova	O
+570770	Loukov	O
+588709	Loukov	O
+536261	Loukovec	O
+591092	Loukovice	O
+558010	Louňová	O
+538451	Louňovice	O
+530107	Louňovice pod Blaníkem	T
+565971	Louny	M
+563684	Loužnice	O
+570320	Lovčice	O
+586340	Lovčice	O
+593265	Lovčičky	O
+544957	Lovčovice	O
+565211	Lovečkovice	O
+565229	Lovosice	M
+566446	Loza	O
+571750	Lozice	O
+532193	Lštění	O
+581992	Lubě	O
+566438	Lubenec	O
+552216	Luběnice	O
+542032	Lubná	O
+578355	Lubná	O
+588717	Lubná	O
+596078	Lubné	O
+594385	Lubnice	O
+580619	Lubník	O
+599646	Luboměř	O
+554634	Luby	M
+563692	Lučany nad Nisou	M
+569062	Lučice	O
+598399	Lučina	O
+507971	Ludgeřovice	O
+531006	Ludíkov	O
+585441	Ludkovice	O
+589705	Ludmírov	O
+588725	Ludslavice	O
+551996	Ludvíkov	O
+546496	Ludvíkovice	O
+585459	Luhačovice	M
+514161	Luka	O
+503622	Luká	O
+587478	Luka nad Jihlavou	T
+548332	Lukavec	T
+565237	Lukavec	O
+573141	Lukavec u Hořic	O
+540234	Lukavice	O
+571768	Lukavice	O
+576492	Lukavice	O
+580627	Lukavice	O
+546909	Lukov	O
+550566	Lukov	O
+585467	Lukov	O
+594393	Lukov	T
+580635	Luková	O
+583324	Lukovany	O
+557145	Lukoveček	O
+593273	Luleč	O
+576506	Lupenice	O
+536270	Luštěnice	O
+503657	Lutín	O
+585483	Lutonina	O
+588733	Lutopecny	O
+558028	Lužany	O
+570354	Lužany	O
+573159	Lužany	O
+534404	Lužce	O
+571776	Luže	M
+570362	Lužec nad Cidlinou	O
+535028	Lužec nad Vltavou	O
+553891	Luženičky	O
+537322	Lužice	O
+567281	Lužice	O
+569844	Lužice	O
+586358	Lužice	O
+542041	Lužná	O
+544434	Lužná	O
+508501	Lužnice	O
+537454	Lysá nad Labem	M
+582018	Lysice	T
+593281	Lysovice	O
+594407	Mackovice	O
+536466	Mačkov	O
+537381	Mahouš	O
+574210	Machov	T
+585491	Machová	O
+546712	Majdalena	O
+503738	Majetín	O
+532622	Makotřasy	O
+578363	Makov	O
+582026	Makov	O
+544469	Malá Bystřice	O
+540714	Malá Hraštice	O
+582034	Malá Lhota	O
+596086	Malá Losenice	O
+540331	Malá Morava	O
+597601	Malá Morávka	O
+582042	Malá Roudka	O
+563706	Malá Skála	O
+551902	Malá Štáhle	O
+579505	Malá Úpa	O
+562700	Malá Veleň	O
+533319	Malá Víska	O
+586366	Malá Vrbka	O
+569071	Malčín	O
+567299	Malé Březno	O
+568091	Malé Březno	O
+589713	Malé Hradisko	O
+532631	Malé Kyšice	O
+513113	Malé Přítočno	O
+579513	Malé Svatoňovice	O
+572802	Malé Výkleky	O
+565245	Malé Žernoseky	O
+569089	Maleč	O
+568104	Malečov	O
+551384	Malenice	O
+552593	Malenovice	O
+534188	Malešov	T
+583332	Malešovice	O
+540366	Maletín	O
+583341	Malhostovice	O
+515329	Malhotice	O
+542491	Malíč	O
+578371	Malíkov	O
+532657	Malíkovice	O
+593290	Malínky	O
+565377	Malinová	O
+534218	Málkov	O
+563200	Málkov	O
+545619	Malonty	O
+533513	Malotice	O
+550418	Malovice	O
+552666	Malšice	T
+536296	Malšín	O
+562718	Malšovice	O
+587486	Malý Beranov	O
+556629	Malý Bor	O
+535036	Malý Újezd	O
+559202	Manětín	M
+568589	Mankovice	O
+578410	Maňovice	O
+554642	Mariánské Lázně	M
+567302	Mariánské Radčice	O
+545678	Markvartice	O
+573167	Markvartice	O
+587494	Markvartice	O
+591114	Markvartice	O
+508128	Markvartovice	O
+583359	Maršov	O
+579530	Maršov u Úpice	O
+530115	Maršovice	T
+563714	Maršovice	O
+565253	Martiněves	O
+588741	Martinice	O
+596094	Martinice	O
+561347	Martinice u Onšova	O
+573418	Martinice v Krkonoších	O
+550388	Martínkov	O
+574228	Martínkovice	O
+561827	Mařenice	O
+573779	Máslojedy	O
+538469	Máslovice	O
+564702	Masojedy	O
+591122	Mastník	O
+594415	Mašovice	O
+563218	Mašťov	M
+596108	Matějov	O
+535940	Mazelov	O
+562866	Mažice	O
+537462	Mcely	O
+553913	Meclov	O
+565644	Mečeříž	O
+551392	Mečichov	O
+556637	Měčín	M
+563226	Měděnec	O
+594423	Medlice	O
+552372	Medlov	O
+583367	Medlov	T
+550141	Medlovice	O
+592366	Medlovice	O
+529575	Medonosy	O
+579009	Medový Újezd	O
+539490	Měchenice	O
+539716	Měcholupy	O
+566454	Měcholupy	O
+536415	Měkynec	O
+508144	Melč	O
+583375	Mělčany	O
+535044	Mělnické Vtelno	O
+534676	Mělník	M
+531529	Měňany	O
+545031	Menhartice	O
+570397	Měník	O
+583383	Měnín	O
+545791	Merboltice	O
+555363	Merklín	O
+558044	Merklín	O
+568911	Měrotín	O
+552909	Měrovice nad Hanou	O
+567698	Měrunice	O
+596116	Měřín	T
+537489	Městec Králové	M
+542067	Městečko	O
+578380	Městečko Trnávka	O
+597635	Město Albrechtice	M
+559211	Město Touškov	M
+538477	Měšice	O
+587508	Měšín	O
+579084	Mešno	O
+512184	Metylovice	O
+553921	Mezholezy (dříve okres Domažlice)	O
+553930	Mezholezy (dříve okres Horšovský Týn)	O
+567311	Meziboří	M
+578461	Mezihoří	O
+574236	Mezilečí	O
+548367	Mezilesí	O
+574244	Mezilesí	O
+574252	Meziměstí	M
+551724	Mezina	O
+563234	Meziříčí	O
+587516	Meziříčko	O
+591149	Meziříčko	O
+529834	Mezná	O
+599255	Mezná	O
+530158	Mezno	O
+531537	Mezouň	O
+550426	Mičovice	O
+571822	Míčov-Sušice	O
+542521	Michalovice	O
+548316	Michalovice	O
+582069	Míchov	O
+568279	Mikolajice	O
+562751	Mikulášovice	M
+586374	Mikulčice	O
+578398	Mikuleč	O
+567701	Mikulov	O
+584649	Mikulov	M
+540382	Mikulovice	O
+575372	Mikulovice	O
+591157	Mikulovice	O
+594431	Mikulovice	T
+544507	Mikulůvka	O
+549835	Milasín	O
+553948	Milavče	O
+537497	Milčice	O
+558052	Mileč	O
+536539	Milejovice	O
+515418	Milenov	O
+587770	Milešín	O
+540749	Milešov	O
+593320	Milešovice	O
+573175	Miletín	M
+549576	Milevsko	M
+554651	Milhostov	O
+530166	Miličín	O
+587524	Milíčov	O
+594440	Milíčovice	O
+507547	Milíkov	O
+538906	Milíkov	O
+540757	Milín	O
+530140	Milínov	O
+541532	Milíře	O
+582077	Milonice	O
+593338	Milonice	O
+551414	Miloňovice	O
+542075	Milostín	O
+586382	Milotice	O
+515477	Milotice nad Bečvou	O
+569526	Milotice nad Opavou	O
+537501	Milovice	M
+584657	Milovice	O
+548863	Milovice u Hořic	O
+565466	Milý	O
+561835	Mimoň	M
+562149	Minice	O
+545627	Mirkovice	O
+594458	Miroslav	M
+594466	Miroslavské Knínice	O
+559997	Mirošov	M
+587532	Mirošov	O
+596132	Mirošov	O
+538485	Mirošovice	O
+549584	Mirotice	M
+569381	Mírov	O
+537934	Mírová	O
+577316	Mírová pod Kozákovem	O
+549592	Mirovice	M
+530506	Miřejovice	O
+530174	Miřetice	O
+571831	Miřetice	O
+553956	Mířkov	O
+534200	Miskovice	O
+563242	Místo	O
+580643	Mistrovice	O
+592382	Mistřice	O
+588750	Míškovice	O
+546399	Míšov	O
+549606	Mišovice	O
+535419	Mladá Boleslav	S
+552704	Mladá Vožice	M
+548383	Mladé Bříště	O
+579548	Mladé Buky	T
+553042	Mladecko	O
+504246	Mladeč	O
+573205	Mladějov	O
+578401	Mladějov na Moravě	O
+552348	Mladějovice	O
+580651	Mladkov	O
+571857	Mladoňovice	O
+591165	Mladoňovice	O
+544817	Mladošovice	O
+559237	Mladotice	O
+558061	Mladý Smolivec	O
+573213	Mlázovice	T
+560006	Mlečice	O
+565296	Mlékojedy	O
+570401	Mlékosrby	O
+542059	Mlýnské Struhadlo	O
+552712	Mlýny	O
+565300	Mnetěš	O
+548391	Mnich	O
+536563	Mnichov	O
+554677	Mnichov	O
+566292	Mnichov	O
+530191	Mnichovice	O
+538493	Mnichovice	M
+536326	Mnichovo Hradiště	M
+564231	Mníšek	O
+540765	Mníšek pod Brdy	M
+599174	Močerady	O
+530999	Močovice	O
+567710	Modlany	O
+598267	Modletice	O
+569127	Modlíkov	O
+592391	Modrá	O
+598615	Modrá Hůrka	O
+542148	Modrava	O
+583391	Modřice	M
+577324	Modřišice	O
+599751	Modřovice	O
+540471	Mohelnice	M
+558079	Mohelnice	O
+565822	Mohelnice nad Jizerou	O
+591173	Mohelno	T
+538507	Mochov	O
+556718	Mochtín	O
+598623	Mojné	O
+575381	Mokošín	O
+583405	Mokrá-Horákov	O
+576522	Mokré	O
+508373	Mokré Lazce	O
+556726	Mokrosuky	O
+540641	Mokrouše	O
+570419	Mokrovousy	O
+540781	Mokrovraty	O
+535842	Mokrý Lom	O
+567728	Moldava	O
+571873	Morašice	O
+573035	Morašice	O
+578428	Morašice	O
+594474	Morašice	O
+575399	Moravany	O
+583413	Moravany	O
+586391	Moravany	O
+596141	Moravec	O
+596159	Moravecké Pavlovice	O
+548405	Moraveč	O
+569097	Moravice	O
+540480	Moravičany	O
+598445	Morávka	O
+584665	Moravská Nová Ves	T
+578444	Moravská Třebová	M
+583421	Moravské Bránice	O
+591181	Moravské Budějovice	M
+583430	Moravské Knínice	O
+593346	Moravské Málkovice	O
+551732	Moravskoslezský Kočov	O
+597678	Moravský Beroun	M
+594482	Moravský Krumlov	M
+586404	Moravský Písek	O
+584673	Moravský Žižkov	O
+588768	Morkovice-Slížany	M
+584681	Morkůvky	O
+589721	Mořice	O
+531545	Mořina	O
+533912	Mořinka	O
+599689	Mořkov	O
+567027	Most	S
+579556	Mostek	O
+580660	Mostek	O
+589730	Mostkovice	O
+598453	Mosty u Jablunkova	O
+568686	Mošnov	O
+593354	Mouchnice	O
+557048	Mouřínov	O
+583448	Moutnice	O
+530204	Mrač	O
+554847	Mrákotín	O
+587541	Mrákotín	T
+553981	Mrákov	O
+538515	Mratín	O
+553905	Mrlínek	O
+554944	Mrsklesy	O
+559245	Mrtník	O
+513288	Mrzky	O
+577332	Mříčná	O
+542105	Mšec	T
+542113	Mšecké Žehrovice	O
+565318	Mšené-lázně	O
+535052	Mšeno	M
+538523	Mukařov	O
+571865	Mukařov	O
+542121	Mutějovice	O
+560278	Mutěnice	O
+586412	Mutěnice	O
+553999	Mutěnín	O
+547093	Mutkov	O
+535281	Mydlovary	O
+589748	Myslejovice	O
+587559	Mysletice	O
+561819	Mysletín	O
+587567	Mysliboř	O
+591190	Myslibořice	O
+549614	Myslín	O
+566543	Myslinka	O
+556734	Myslív	O
+552721	Myslkovice	O
+585505	Mysločovice	O
+541745	Myslovice	O
+570427	Myštěves	O
+551473	Myštice	O
+560014	Mýto	M
+570435	Mžany	O
+571890	Nabočany	O
+530212	Načeradec	T
+571903	Načešice	O
+549631	Nadějkov	O
+587575	Nadějov	O
+559253	Nadryby	O
+574261	Nahořany	O
+552810	Nahošovice	O
+573868	Náchod	M
+504441	Náklo	O
+535371	Nákří	O
+550779	Naloučany	O
+540790	Nalžovice	O
+556751	Nalžovské Hory	M
+504505	Náměšť na Hané	T
+591211	Náměšť nad Oslavou	M
+585513	Napajedla	M
+591220	Nárameč	O
+564478	Narysov	O
+559016	Nasavrky	O
+571911	Nasavrky	M
+580678	Nasavrky	O
+586421	Násedlovice	O
+594512	Našiměřice	O
+585521	Návojná	O
+554014	Návsí	O
+550434	Nebahovy	O
+554693	Nebanice	O
+540340	Nebílovy	O
+533521	Nebovidy	O
+583456	Nebovidy	O
+536644	Nebřehovice	O
+535061	Nebužely	O
+540811	Nečín	O
+559261	Nečtiny	O
+544825	Nedabyle	O
+592404	Nedachlebice	O
+592412	Nedakonice	O
+585530	Nedašov	O
+585548	Nedašova Lhota	O
+570443	Neděliště	O
+531863	Nedomice	O
+540820	Nedrahovice	O
+596175	Nedvědice	T
+578452	Nedvězí	O
+578223	Nehodiv	O
+538540	Nehvizdy	T
+570451	Nechanice	M
+540846	Nechvalice	O
+586439	Nechvalín	O
+555380	Nejdek	M
+548197	Nejepín	O
+559270	Nekmíř	O
+580686	Nekoř	O
+558095	Nekvasovy	O
+535079	Nelahozeves	O
+583464	Nelepeč-Žernůvka	O
+515787	Nelešovice	O
+554006	Nemanice	O
+593371	Němčany	O
+536334	Němčice	O
+536474	Němčice	O
+550396	Němčice	O
+571636	Němčice	O
+572870	Němčice	O
+580694	Němčice	O
+582085	Němčice	O
+588784	Němčice	O
+599166	Němčice	O
+589756	Němčice nad Hanou	M
+583472	Němčičky	O
+584703	Němčičky	O
+594521	Němčičky	O
+566837	Němčovice	O
+536725	Němětice	O
+553476	Nemile	O
+593389	Nemochovice	O
+593397	Nemojany	O
+579564	Nemojov	O
+593401	Nemotice	O
+573230	Nemyčeves	O
+571156	Nemyslovice	O
+552747	Nemyšl	O
+533602	Nenačovice	O
+586447	Nenkovice	O
+535435	Neplachov	O
+553158	Neplachovice	O
+570478	Nepolisy	O
+534226	Nepoměřice	O
+558109	Nepomuk	M
+564524	Nepomuk	O
+566501	Nepomyšl	T
+571521	Neprobylice	O
+536351	Nepřevázka	O
+573078	Neratov	O
+535087	Neratovice	M
+562157	Nerestce	O
+583481	Neslovice	O
+593419	Nesovice	O
+530263	Nespeky	O
+564222	Nestrašovice	O
+542130	Nesuchyně	O
+583499	Nesvačilka	O
+534269	Nesvačily	O
+596183	Netín	O
+550442	Netolice	M
+534919	Netřebice	O
+545643	Netřebice	O
+558117	Netunice	O
+530298	Netvořice	T
+585556	Neubuz	O
+554022	Neuměř	O
+532665	Neuměřice	O
+531588	Neumětely	O
+558125	Neurazy	O
+530301	Neustupov	T
+587583	Nevcehle	O
+530310	Neveklov	M
+571997	Neveklovice	O
+549657	Nevězice	O
+541192	Nevid	O
+593427	Nevojice	O
+554031	Nevolice	O
+549207	Nevratice	O
+559288	Nevřeň	O
+598585	Nezabudice	O
+546160	Nezabylice	O
+578533	Nezamyslice	O
+589764	Nezamyslice	T
+553590	Nezbavětice	O
+592421	Nezdenice	O
+542296	Nezdice	O
+556815	Nezdice na Šumavě	O
+540102	Nezdřev	O
+558141	Nezvěstice	O
+529893	Nicov	O
+551520	Nihošovice	O
+596191	Níhov	O
+584711	Nikolčice	O
+571121	Niměřice	O
+591238	Nimpšov	O
+536962	Nišovice	O
+588806	Nítkovice	O
+589772	Niva	O
+592439	Nivnice	O
+531596	Nižbor	O
+596205	Nížkov	O
+593435	Nížkovice	O
+552526	Nižní Lhoty	O
+597686	Norberčany	O
+531707	Nosálov	O
+584720	Nosislav	T
+552518	Nošovice	O
+561177	Nová Buková	O
+546798	Nová Bystřice	M
+548456	Nová Cerekev	T
+588814	Nová Dědina	O
+552381	Nová Hradečná	O
+586455	Nová Lhota	O
+562734	Nová Olešná	O
+573248	Nová Paka	M
+550451	Nová Pec	O
+546950	Nová Pláň	O
+555398	Nová Role	M
+587591	Nová Říše	T
+572608	Nová Sídla	O
+536377	Nová Telib	O
+546801	Nová Včelnice	M
+513661	Nová Ves	O
+535117	Nová Ves	O
+535648	Nová Ves	O
+538558	Nová Ves	O
+540269	Nová Ves	O
+542636	Nová Ves	O
+546593	Nová Ves	O
+560201	Nová Ves	O
+560561	Nová Ves	O
+576549	Nová Ves	O
+583502	Nová Ves	O
+591246	Nová Ves	O
+596213	Nová Ves	O
+599131	Nová Ves	O
+533530	Nová Ves I	O
+562360	Nová Ves nad Lužnicí	O
+563731	Nová Ves nad Nisou	O
+577341	Nová Ves nad Popelkou	O
+540889	Nová Ves pod Pleší	O
+571806	Nová Ves u Bakova	O
+569160	Nová Ves u Chotěboře	O
+552763	Nová Ves u Chýnova	O
+572438	Nová Ves u Jarošova	O
+569151	Nová Ves u Leštiny	O
+563455	Nová Ves u Mladé Vožice	O
+596221	Nová Ves u Nového Města na Moravě	O
+555266	Nová Ves u Světlé	O
+567329	Nová Ves v Horách	O
+583511	Nové Bránice	O
+534242	Nové Dvory	T
+540897	Nové Dvory	O
+565342	Nové Dvory	O
+587974	Nové Dvory	O
+506494	Nové Hamry	O
+569551	Nové Heřminovy	O
+544868	Nové Hrady	M
+571920	Nové Hrady	O
+561568	Nové Hutě	O
+512893	Nové Lublice	O
+570494	Nové Město	O
+596230	Nové Město na Moravě	M
+574279	Nové Město nad Metují	M
+564265	Nové Město pod Smrkem	M
+558176	Nové Mitrovice	O
+593443	Nové Sady	O
+596248	Nové Sady	O
+555274	Nové Sedlice	O
+560570	Nové Sedlo	M
+566519	Nové Sedlo	O
+542164	Nové Strašecí	M
+591254	Nové Syrovice	O
+596256	Nové Veselí	T
+561851	Noviny pod Ralskem	O
+567752	Novosedlice	O
+551554	Novosedly	O
+584746	Novosedly	O
+546844	Novosedly nad Nežárkou	O
+561860	Nový Bor	M
+570508	Nový Bydžov	M
+542181	Nový Dům	O
+599654	Nový Dvůr	O
+574287	Nový Hrádek	T
+544566	Nový Hrozenkov	T
+531600	Nový Jáchymov	O
+599191	Nový Jičín	M
+596264	Nový Jimramov	O
+540901	Nový Knín	M
+554707	Nový Kostel	O
+554057	Nový Kramolín	O
+540501	Nový Malín	O
+561878	Nový Oldřichov	O
+574295	Nový Ples	O
+586463	Nový Poddvorov	O
+584754	Nový Přerov	O
+548464	Nový Rychnov	T
+587729	Nový Šaldorf-Sedlešovice	O
+591262	Nový Telečkov	O
+538566	Nový Vestec	O
+531618	Nučice	O
+533548	Nučice	O
+564907	Nupaky	O
+507091	Nýdek	O
+596272	Nyklovice	O
+537004	Nymburk	M
+582107	Nýrov	O
+556831	Nýrsko	M
+559300	Nýřany	M
+513571	Občov	O
+540935	Obecnice	O
+589799	Obědkovice	O
+548065	Obědovice	O
+541443	Obora	O
+542580	Obora	O
+559318	Obora	O
+582115	Obora	O
+569577	Oborná	O
+540943	Obory	O
+540951	Obořiště	O
+548472	Obrataň	O
+567337	Obrnice	O
+570893	Obrubce	O
+536407	Obruby	O
+535133	Obříství	O
+596281	Obyčtov	O
+541915	Obytce	O
+510980	Ocmanice	O
+576557	Očelice	O
+566527	Očihov	O
+538574	Odolena Voda	M
+539554	Odrava	O
+583529	Odrovice	O
+599701	Odry	M
+537551	Odřepsy	O
+591289	Odunec	O
+533556	Ohaře	O
+549185	Ohařice	O
+548910	Ohaveč	O
+567761	Ohníč	O
+576565	Ohnišov	O
+570516	Ohnišťany	O
+540960	Ohrazenice	O
+577359	Ohrazenice	O
+539503	Ohrobec	O
+589802	Ohrozim	O
+589811	Ochoz	O
+583537	Ochoz u Brna	O
+582123	Ochoz u Tišnova	O
+591297	Okarec	O
+561886	Okna	O
+571334	Okoř	O
+563269	Okounov	O
+529877	Okrouhlá	O
+538922	Okrouhlá	O
+561894	Okrouhlá	O
+582131	Okrouhlá	O
+562475	Okrouhlá Radouň	O
+569186	Okrouhlice	O
+548588	Okrouhlička	O
+539511	Okrouhlo	O
+534251	Okřesaneč	O
+546933	Okřešice	O
+537560	Okřínek	O
+591301	Okříšky	T
+552259	Olbramice	O
+554049	Olbramice	O
+594555	Olbramkostel	T
+566888	Olbramov	O
+530344	Olbramovice	O
+594563	Olbramovice	T
+515825	Oldřichov	O
+552798	Oldřichov	O
+564281	Oldřichov v Hájích	O
+549444	Oldřichovice	O
+578479	Oldřiš	O
+509574	Oldřišov	O
+594571	Oleksovice	T
+569208	Olešenka	O
+533564	Oleška	O
+542440	Oleško	O
+531626	Olešná	O
+542199	Olešná	O
+561967	Olešná	O
+562190	Olešná	O
+569216	Olešná	O
+544884	Olešnice	O
+570524	Olešnice	O
+576581	Olešnice	O
+577367	Olešnice	O
+582158	Olešnice	M
+576573	Olešnice v Orlických horách	O
+544892	Olešník	O
+500496	Olomouc	S
+582166	Olomučany	O
+560588	Oloví	M
+532673	Olovnice	O
+540510	Olšany	O
+541958	Olšany	O
+550132	Olšany	O
+587613	Olšany	O
+589829	Olšany u Prostějova	O
+587214	Olší	O
+596302	Olší	O
+552844	Olšovec	O
+537365	Olšovice	O
+583545	Omice	O
+545660	Omlenice	O
+589837	Ondratice	O
+537691	Ondřejov	O
+538582	Ondřejov	O
+534277	Onomyšl	O
+548502	Onšov	O
+594580	Onšov	O
+552801	Opařany	O
+578487	Opatov	O
+587621	Opatov	O
+591319	Opatov	T
+572721	Opatovec	O
+516201	Opatovice	O
+583553	Opatovice	O
+530956	Opatovice I	O
+575429	Opatovice nad Labem	O
+505927	Opava	S
+571679	Oplany	O
+553000	Oplocany	O
+539783	Oplot	O
+537578	Opočnice	O
+542555	Opočno	O
+576590	Opočno	M
+537586	Opolany	O
+591327	Oponešice	O
+516350	Oprostovice	O
+542202	Oráčov	O
+571962	Orel	O
+580716	Orlické Podhůří	O
+576603	Orlické Záhoří	O
+580724	Orličky	O
+549681	Orlík nad Vltavou	O
+599069	Orlová	M
+593460	Orlovice	O
+539520	Ořech	O
+583561	Ořechov	O
+587630	Ořechov	O
+592447	Ořechov	O
+596329	Ořechov	O
+598470	Osečany	O
+599662	Oseček	O
+564290	Osečná	M
+576611	Osečnice	O
+531634	Osek	O
+551562	Osek	O
+560057	Osek	O
+567779	Osek	M
+573264	Osek	O
+598828	Osek	O
+516619	Osek nad Bečvou	O
+558184	Oselce	O
+570532	Osice	O
+588822	Osíčko	O
+570541	Osičky	O
+578509	Osík	O
+582174	Osiky	O
+540544	Oskava	O
+537616	Oskořínek	O
+583588	Oslavany	M
+596337	Oslavice	O
+511412	Oslavička	O
+594598	Oslnovice	O
+549703	Oslov	O
+597716	Osoblaha	O
+531642	Osov	O
+596345	Osová Bítýška	O
+596353	Osové	O
+591335	Ostašov	O
+583596	Ostopovice	O
+537624	Ostrá	O
+557170	Ostrata	O
+554821	Ostrava	S
+598542	Ostravice	O
+535231	Ostrolovský Újezd	O
+573272	Ostroměř	O
+548359	Ostrov	O
+555428	Ostrov	M
+574104	Ostrov	O
+580732	Ostrov	O
+598372	Ostrov	O
+599395	Ostrov	O
+596361	Ostrov nad Oslavou	T
+559326	Ostrov u Bezdružic	O
+582182	Ostrov u Macochy	T
+583600	Ostrovačice	T
+586471	Ostrovánky	O
+549711	Ostrovec	O
+566993	Ostrovec-Lhotka	O
+592455	Ostrožská Lhota	O
+592463	Ostrožská Nová Ves	O
+569330	Ostružná	O
+573281	Ostružno	O
+530352	Ostředek	O
+575437	Ostřešany	O
+578061	Ostřetice	O
+575445	Ostřetín	O
+592471	Osvětimany	T
+554073	Osvračín	O
+541681	Ošelín	O
+589845	Otaslavice	O
+540293	Otěšice	O
+509612	Otice	O
+587648	Otín	O
+596370	Otín	O
+589853	Otinoves	O
+506699	Otmarov	O
+534111	Otmíče	O
+593478	Otnice	O
+566209	Otov	O
+537969	Otovice	O
+574317	Otovice	O
+554952	Otradov	O
+555444	Otročín	O
+531669	Otročiněves	O
+585599	Otrokovice	M
+563277	Otvice	O
+532681	Otvovice	O
+541010	Ouběnice	O
+580741	Oucmanice	O
+569224	Oudoleň	O
+533572	Ovčáry	O
+535141	Ovčáry	O
+569232	Ovesná Lhota	O
+539473	Ovesné Kladruby	O
+544574	Oznice	O
+531278	Paběnice	O
+545953	Paceřice	O
+588831	Pacetluky	O
+548511	Pacov	M
+556912	Pačejov	O
+588849	Pačlavice	O
+564192	Páleč	O
+598551	Palkovice	O
+540595	Palonín	O
+550469	Pálovice	O
+582191	Pamětice	O
+587656	Panenská Rozsíčka	O
+538604	Panenské Břežany	O
+566535	Panenský Týnec	T
+542211	Panoší Újezd	O
+587672	Panské Dubenky	O
+551571	Paračov	O
+555134	Pardubice	S
+516635	Paršovice	O
+516686	Partutovice	O
+599182	Pařezov	O
+554081	Pasečnice	O
+504785	Paseka	O
+562254	Paseky	O
+547476	Paseky nad Jizerou	O
+598569	Paskov	M
+584762	Pasohlávky	O
+566781	Pastuchovice	O
+580759	Pastviny	O
+513423	Pašinka	O
+592480	Pašovice	O
+537632	Pátek	O
+567345	Patokryje	O
+594601	Pavlice	O
+544248	Pavlíkov	T
+596388	Pavlínov	O
+532711	Pavlov	O
+540609	Pavlov	O
+561916	Pavlov	O
+569241	Pavlov	O
+584771	Pavlov	O
+587681	Pavlov	O
+596396	Pavlov	O
+533076	Pavlovice	O
+557196	Pavlovice u Kojetína	O
+516694	Pavlovice u Přerova	O
+552500	Pazderna	O
+554090	Pec	O
+579581	Pec pod Sněžkou	M
+573299	Pecka	T
+507717	Peč	O
+541028	Pečice	O
+571032	Pěčice	O
+576620	Pěčín	O
+537641	Pečky	M
+537543	Pěčnov	O
+566373	Pelechy	O
+547492	Pelhřimov	M
+563749	Pěnčín	O
+564303	Pěnčín	O
+589870	Pěnčín	O
+572004	Perálec	O
+584789	Perná	O
+559334	Pernarec	O
+555452	Pernink	O
+596400	Pernštejnské Jestřabí	O
+563285	Perštejn	O
+534307	Pertoltice	O
+564311	Pertoltice	O
+514276	Pertoltice pod Ralskem	O
+566551	Peruc	T
+577391	Peřimov	O
+546062	Pesvice	O
+529656	Pětihosty	O
+598241	Pětikozly	O
+563293	Pětipsy	O
+536431	Petkovy	O
+596418	Petráveč	O
+566560	Petrohrad	O
+530409	Petroupim	O
+539546	Petrov	O
+582204	Petrov	O
+586480	Petrov	O
+500020	Petrov nad Desnou	O
+541044	Petrovice	O
+542229	Petrovice	O
+551848	Petrovice	O
+568147	Petrovice	O
+570567	Petrovice	O
+580767	Petrovice	O
+582212	Petrovice	O
+591360	Petrovice	O
+594610	Petrovice	O
+534315	Petrovice I	O
+534323	Petrovice II	O
+599077	Petrovice u Karviné	O
+556921	Petrovice u Sušice	O
+548871	Petrovičky	O
+556874	Petrůvka	O
+591378	Petrůvky	O
+535699	Petříkov	O
+538612	Petříkov	O
+599085	Petřvald	M
+599743	Petřvald	O
+532720	Pchery	O
+541052	Pičín	O
+549916	Pikárec	O
+556947	Pila	O
+579599	Pilníkov	M
+540650	Písařov	O
+540684	Písečná	O
+557226	Písečná	O
+580775	Písečná	O
+546917	Písečné	O
+596434	Písečné	O
+512028	Písek	O
+549240	Písek	M
+570575	Písek	O
+536440	Písková Lhota	O
+537659	Písková Lhota	O
+561070	Pístina	O
+537667	Písty	O
+509647	Píšť	O
+548545	Píšť	O
+542539	Píšťany	O
+535991	Pištín	O
+592498	Pitín	O
+589888	Pivín	O
+598887	Pivkovice	O
+535176	Planá	O
+561134	Planá	M
+552828	Planá nad Lužnicí	M
+533581	Plaňany	T
+587702	Plandry	O
+530336	Pláně	O
+556955	Plánice	M
+559351	Plasy	M
+535346	Plav	O
+594628	Plaveč	O
+509078	Plavsko	O
+563757	Plavy	O
+536458	Plazy	O
+550051	Plenkovice	O
+554740	Plesná	M
+507628	Pleše	O
+559369	Plešnice	O
+532738	Pletený Újezd	O
+572942	Plch	O
+564125	Plchov	O
+580783	Plchovice	O
+566861	Plískov	O
+565393	Ploskovice	O
+546968	Pluhův Žďár	O
+589896	Plumlov	M
+565580	Plužná	O
+554791	Plzeň	S
+566578	Pnětluky	O
+559377	Pňovany	O
+552160	Pňovice	O
+537675	Pňov-Předhradí	O
+554111	Poběžovice	M
+575461	Poběžovice u Holic	O
+575470	Poběžovice u Přelouče	O
+554120	Pocinovice	O
+564214	Počaply	O
+548561	Počátky	M
+566586	Počedělice	O
+588865	Počenice-Tetětice	O
+541087	Počepice	O
+596442	Počítky	O
+566608	Podbořanský Rohozec	O
+566616	Podbořany	M
+534285	Podbrdy	O
+576654	Podbřezí	O
+550795	Podbřežice	O
+537683	Poděbrady	M
+596451	Poděšín	O
+566365	Poděvousy	O
+573311	Podhorní Újezd a Vojice	O
+572039	Podhořany u Ronova	O
+534811	Podhradí	O
+538817	Podhradí	O
+573329	Podhradí	T
+594636	Podhradí nad Dyjí	O
+588873	Podhradní Lhota	O
+593486	Podivice	O
+584797	Podivín	M
+585611	Podkopná Lhota	O
+564486	Podlesí	O
+580805	Podlesí	O
+532754	Podlešín	O
+531685	Podluhy	O
+548634	Podmoklany	O
+551686	Podmokly	O
+560081	Podmokly	O
+548251	Podmoky	O
+599590	Podmoky	O
+594644	Podmolí	O
+594652	Podmyče	O
+538621	Podolanka	O
+516864	Podolí	O
+569496	Podolí	O
+583634	Podolí	O
+592501	Podolí	O
+596469	Podolí	O
+549754	Podolí I	O
+550175	Podomí	O
+565415	Podsedice	O
+572951	Podůlšany	O
+573345	Podůlší	O
+528196	Podveky	O
+569291	Pohled	O
+573591	Pohleď	O
+578550	Pohledy	O
+560553	Pohnánec	O
+552852	Pohnání	O
+536911	Pohorovice	O
+545694	Pohorská Ves	O
+549461	Pohořelice	O
+584801	Pohořelice	M
+539562	Pohoří	O
+576662	Pohoří	O
+542237	Pochvalov	O
+552861	Pojbuky	O
+596477	Pokojov	O
+550370	Pokojovice	O
+572063	Pokřikov	O
+553565	Polánka	O
+541788	Poleň	O
+533599	Polepy	O
+565431	Polepy	O
+538639	Polerady	O
+567353	Polerady	O
+561436	Polesí	O
+592510	Polešovice	T
+561959	Polevsko	O
+540731	Police	O
+544621	Police	O
+591394	Police	O
+574341	Police nad Metují	M
+578576	Polička	M
+500071	Poličná	O
+516899	Polkovice	O
+587711	Polná	M
+513237	Polní Chrčice	O
+513148	Polní Voděrady	O
+596485	Polnička	O
+516911	Polom	O
+548723	Polom	O
+549983	Polomí	O
+562459	Polště	O
+578584	Pomezí	O
+538868	Pomezí nad Ohří	O
+562670	Ponědraž	O
+562653	Ponědrážka	O
+549738	Ponětovice	O
+577405	Poniklá	O
+546992	Popelín	O
+584819	Popice	O
+532649	Popovice	O
+583651	Popovice	O
+592528	Popovice	O
+599221	Popovičky	O
+583669	Popůvky	O
+591408	Popůvky	O
+537705	Poříčany	O
+530441	Poříčí nad Sázavou	O
+572373	Poříčí u Litomyšle	O
+566624	Postoloprty	M
+554138	Postřekov	O
+540773	Postřelmov	O
+553352	Postřelmůvek	O
+538647	Postřižín	O
+530450	Postupice	O
+548600	Pošná	O
+564087	Poštovice	O
+549533	Poteč	O
+534331	Potěhy	O
+517101	Potštát	M
+576671	Potštejn	O
+555479	Potůčky	O
+530247	Potvorov	O
+577979	Poustka	O
+584835	Pouzdřany	O
+568155	Povrly	O
+591416	Pozďatín	O
+544655	Pozděchov	O
+532762	Pozdeň	O
+549401	Pozlovice	T
+583677	Pozořice	T
+583685	Prace	O
+551619	Pracejovice	O
+565458	Prackovice nad Labem	O
+594679	Práče	O
+558231	Prádlo	O
+554782	Praha	H
+550094	Prachatice	M
+572071	Prachovice	O
+592536	Prakšice	O
+539538	Prameny	O
+570648	Prasek	O
+570656	Praskačka	O
+587397	Prasklice	O
+531693	Praskolesy	O
+556084	Prášily	O
+588890	Pravčice	O
+594687	Pravice	O
+583693	Pravlov	O
+530476	Pravonín	O
+572853	Pravy	O
+568813	Pražmo	O
+544671	Prlov	O
+567787	Proboštov	O
+561509	Probulov	O
+570753	Prodašice	O
+594695	Prokopov	O
+548758	Proruby	O
+537829	Proseč	O
+572080	Proseč	M
+544345	Proseč pod Ještědem	O
+561941	Proseč pod Křemešníkem	O
+579602	Prosečné	O
+517151	Prosenice	O
+541133	Prosenická Lhota	O
+572098	Prosetín	O
+596493	Prosetín	O
+569313	Prosíčka	O
+594709	Prosiměřice	T
+589250	Prostějov	S
+589918	Prostějovičky	O
+541486	Prostiboř	O
+544698	Prostřední Bečva	O
+582221	Prostřední Poříčí	O
+589926	Protivanov	T
+549771	Protivín	M
+561983	Provodín	O
+585661	Provodov	O
+517208	Provodovice	O
+574350	Provodov-Šonov	O
+583707	Prštice	O
+539571	Průhonice	O
+564788	Prusice	O
+588903	Prusinovice	O
+593494	Prusy-Boškůvky	O
+586498	Prušánky	O
+561991	Prysk	O
+507181	Pržno	O
+544728	Pržno	O
+552411	Přáslavice	O
+561517	Přeborov	O
+560596	Přebuz	M
+591424	Přeckov	O
+538655	Předboj	O
+540412	Předenice	O
+572101	Předhradí	O
+591432	Předín	O
+549746	Předklášteří	O
+536491	Předměřice nad Jizerou	O
+570672	Předměřice nad Labem	O
+551627	Předmíř	O
+545716	Přední Výtoň	O
+536792	Přední Zborovice	O
+509621	Předotice	O
+557005	Předslav	O
+551635	Předslavice	O
+552895	Přehořov	O
+513369	Přehvozdí	O
+559393	Přehýšov	O
+536547	Přechovice	O
+532771	Přelíc	O
+575500	Přelouč	M
+575518	Přelovice	O
+589934	Přemyslovice	O
+570923	Přepeře	O
+577413	Přepeře	O
+575526	Přepychy	O
+576689	Přepychy	O
+511382	Přerov	S
+537721	Přerov nad Labem	O
+598577	Přerubenice	O
+550078	Přeskače	O
+530620	Přestanov	O
+517224	Přestavlky	O
+530131	Přestavlky	O
+565474	Přestavlky	O
+572110	Přestavlky	O
+530492	Přestavlky u Čerčan	O
+591441	Přešovice	O
+549797	Přeštěnice	O
+558249	Přeštice	M
+551643	Přešťovice	O
+570681	Převýšov	O
+538671	Přezletice	O
+584843	Přibice	O
+599808	Příbor	M
+539911	Příbram	M
+583715	Příbram na Moravě	O
+561088	Příbraz	O
+569321	Přibyslav	M
+574368	Přibyslav	O
+583723	Přibyslavice	O
+591459	Přibyslavice	O
+542253	Příčina	O
+513547	Příčovy	O
+545724	Přídolí	T
+558257	Příchovice	O
+505013	Příkazy	O
+579131	Příkosice	O
+577421	Příkrý	O
+549720	Přílepy	O
+565261	Přílepy	O
+578622	Příluka	O
+561151	Přimda	M
+545732	Přísečná	O
+569348	Příseka	O
+583731	Přísnotice	O
+513393	Přistoupim	O
+533611	Přišimasy	O
+567086	Příšov	O
+564354	Příšovice	O
+544752	Příštpo	O
+584851	Přítluky	O
+560111	Přívětice	O
+580821	Přívrat	O
+563374	Psárov	O
+539597	Psáry	O
+530514	Psáře	O
+552577	Pstruží	O
+530671	Pšánky	O
+555525	Pšov	O
+542270	Pšovlky	O
+589942	Ptení	O
+558265	Ptenín	O
+532789	Ptice	O
+571938	Ptýrov	O
+554154	Puclice	O
+591491	Pucov	O
+573531	Puchlovice	O
+587745	Puklice	O
+546577	Pulečný	O
+578631	Pustá Kamenice	O
+509736	Pustá Polom	O
+578649	Pustá Rybná	O
+568775	Pustějov	O
+593508	Pustiměř	O
+580830	Pustina	O
+542288	Pustověty	O
+549801	Putim	O
+598755	Putimov	O
+591505	Pyšel	O
+538680	Pyšely	M
+565652	Rabakov	O
+557013	Rabí	M
+556882	Rabštejnská Lhota	O
+575534	Ráby	O
+530522	Rabyně	O
+585670	Racková	O
+511307	Rácovice	O
+546071	Račetice	O
+565482	Račice	O
+591521	Račice	O
+596507	Račice	O
+599760	Račice	O
+570702	Račice nad Trotinou	O
+593516	Račice-Pístovice	O
+588059	Račín	O
+565491	Račiněves	O
+563773	Radčice	O
+586501	Radějov	O
+536423	Radějovice	O
+538698	Radějovice	O
+596515	Radenice	O
+552917	Radenín	O
+596523	Radešín	O
+596531	Radešínská Svratka	O
+552925	Radětice	O
+564389	Radětice	O
+550485	Radhostice	O
+575542	Radhošť	O
+598488	Radíč	O
+517275	Radíkov	O
+570711	Radíkovice	O
+533629	Radim	O
+573370	Radim	O
+578657	Radiměř	O
+544582	Radimovice	O
+563196	Radimovice u Tábora	O
+552933	Radimovice u Želče	O
+549924	Radkov	O
+552941	Radkov	O
+568317	Radkov	O
+574333	Radkov	O
+587761	Radkov	O
+517321	Radkova Lhota	O
+540421	Radkovice	O
+550493	Radkovice u Budče	O
+591548	Radkovice u Hrotovic	O
+517437	Radkovy	O
+563781	Rádlo	O
+560120	Radnice	M
+596540	Radňoves	O
+596558	Radňovice	O
+551660	Radomyšl	T
+538701	Radonice	O
+563323	Radonice	O
+591556	Radonín	O
+583740	Radostice	O
+569364	Radostín	O
+596566	Radostín	O
+596574	Radostín nad Oslavou	O
+577430	Radostná pod Kozákovem	O
+570729	Radostov	O
+591564	Radošov	O
+530531	Radošovice	O
+544965	Radošovice	O
+551678	Radošovice	O
+545040	Radotice	O
+517445	Radotín	O
+565521	Radovesice	O
+533637	Radovesnice I	O
+533645	Radovesnice II	O
+517534	Radslavice	O
+593524	Radslavice	O
+509841	Raduň	O
+530387	Radvanec	O
+517569	Radvanice	O
+579629	Radvanice	O
+540854	Rájec	O
+582239	Rájec-Jestřebí	M
+582247	Ráječko	O
+583758	Rajhrad	M
+583766	Rajhradice	O
+588920	Rajnochovice	O
+577448	Rakousy	O
+517585	Rakov	O
+566942	Raková	O
+589951	Raková u Konice	O
+562068	Rakovice	O
+541656	Rakovník	M
+589969	Rakůvka	O
+584860	Rakvice	O
+562017	Ralsko	M
+566659	Raná	O
+572152	Raná	O
+587176	Rančířov	O
+587788	Rantířov	O
+591581	Rapotice	O
+540862	Rapotín	O
+547069	Rapšach	O
+574376	Rasošky	O
+564371	Raspenava	M
+549274	Rašín	O
+549665	Raškovice	O
+582255	Rašov	O
+534340	Rašovice	O
+593532	Rašovice	O
+530549	Rataje	O
+552976	Rataje	O
+588938	Rataje	O
+534358	Rataje nad Sázavou	T
+533653	Ratboř	O
+537748	Ratenice	O
+507784	Ratiboř	O
+544787	Ratiboř	O
+552992	Ratibořské Hory	O
+586510	Ratíškovice	O
+532550	Ratměřice	O
+597724	Razová	O
+549827	Ražice	O
+583774	Rebešovice	O
+553395	Rejchartice	O
+557021	Rejštejn	M
+594725	Rešice	O
+571318	Roblín	O
+566667	Ročov	T
+561789	Rodinov	O
+587737	Rodkov	O
+560626	Rodná	O
+547085	Rodvínov	O
+586528	Rohatec	O
+565636	Rohatsko	O
+548669	Rohenice	O
+540871	Rohle	O
+568376	Rohov	O
+575551	Rohovládova Bělá	O
+526622	Rohozec	O
+582263	Rohozec	O
+578673	Rohozná	O
+587796	Rohozná	O
+573221	Rohoznice	O
+575569	Rohoznice	O
+591602	Rohy	O
+559423	Rochlov	O
+565547	Rochov	O
+596582	Rojetín	O
+563331	Rokle	O
+559717	Rokycany	M
+529605	Rokytá	O
+548898	Rokytňany	O
+517607	Rokytnice	O
+556980	Rokytnice	O
+577456	Rokytnice nad Jizerou	M
+591611	Rokytnice nad Rokytnou	T
+576701	Rokytnice v Orlických horách	M
+575577	Rokytno	O
+571148	Rokytovec	O
+572161	Ronov nad Doubravou	M
+556971	Ropice	O
+577464	Roprachtice	O
+508004	Roseč	O
+572179	Rosice	O
+583782	Rosice	M
+549941	Rosička	O
+560995	Rosička	O
+541206	Rosovice	O
+554898	Rostěnice-Zvonovice	O
+533661	Rostoklaty	O
+588946	Roštění	O
+588954	Roštín	O
+560600	Rotava	M
+513709	Roubanina	O
+553018	Roudná	O
+544973	Roudné	O
+570745	Roudnice	O
+565555	Roudnice nad Labem	M
+597741	Roudno	O
+591629	Rouchovany	O
+558290	Roupov	O
+593559	Rousínov	M
+517615	Rouské	O
+596604	Rousměrov	O
+596612	Rovečné	O
+540919	Rovensko	O
+577472	Rovensko pod Troskami	M
+536865	Rovná	O
+560618	Rovná	O
+561274	Rovná	O
+583791	Rozdrojovice	O
+547808	Rozhovice	O
+578681	Rozhraní	O
+594733	Rozkoš	O
+587800	Rozseč	O
+596639	Rozseč	O
+582271	Rozseč nad Kunštátem	O
+582280	Rozsíčka	O
+569399	Rozsochatec	O
+596647	Rozsochy	O
+578690	Rozstání	O
+589977	Rozstání	O
+539627	Roztoky	M
+598526	Roztoky	O
+577499	Roztoky u Jilemnice	O
+577481	Roztoky u Semil	O
+561169	Rozvadov	O
+537756	Rožďalovice	M
+545767	Rožmberk nad Vltavou	M
+545775	Rožmitál na Šumavě	O
+541231	Rožmitál pod Třemšínem	M
+596655	Rožná	O
+574384	Rožnov	O
+544841	Rožnov pod Radhoštěm	M
+531715	Rpety	O
+567809	Rtyně nad Bílinou	O
+579637	Rtyně v Podkrkonoší	M
+542326	Ruda	O
+596663	Ruda	O
+540978	Ruda nad Moravou	O
+582298	Rudice	O
+592552	Rudice	O
+591637	Rudíkov	O
+586919	Rudimov	O
+583804	Rudka	O
+594741	Rudlice	O
+531723	Rudná	M
+578703	Rudná	O
+551945	Rudná pod Pradědem	O
+579645	Rudník	O
+596671	Rudolec	O
+544981	Rudolfov	M
+580848	Rudoltice	O
+562777	Rumburk	M
+593567	Ruprechtov	O
+588962	Rusava	O
+597775	Rusín	O
+569402	Rušinov	O
+544850	Růžďka	O
+587818	Růžená	O
+566900	Růžová	O
+568554	Rybí	O
+575593	Rybitví	O
+576727	Rybná nad Zdobnicí	O
+587826	Rybné	O
+559431	Rybnice	O
+553972	Rybníček	O
+569411	Rybníček	O
+547905	Rybník	O
+554189	Rybník	O
+541257	Rybníky	O
+594750	Rybníky	O
+562793	Rybniště	O
+578711	Rychnov na Moravě	O
+576069	Rychnov nad Kněžnou	M
+563790	Rychnov u Jablonce nad Nisou	M
+574406	Rychnovek	O
+599107	Rychvald	M
+546186	Ryjice	O
+597783	Rýmařov	M
+588971	Rymice	O
+562009	Rynárec	O
+542334	Rynholec	O
+564397	Rynoltice	O
+597791	Ryžoviště	O
+587834	Řásná	O
+575607	Řečany nad Labem	O
+548715	Řečice	O
+596680	Řečice	O
+538710	Řehenice	O
+568201	Řehlovice	O
+552640	Řeka	O
+560511	Řemíčov	O
+558303	Řenče	O
+534366	Řendějov	O
+553034	Řepeč	O
+536849	Řepice	O
+535168	Řepín	O
+568830	Řepiště	O
+572209	Řepníky	O
+536580	Řepov	O
+565504	Řeřichy	O
+572217	Řestoky	O
+580872	Řetová	O
+580881	Řetůvka	O
+539643	Řevnice	M
+542351	Řevničov	O
+583821	Řícmanice	O
+538728	Říčany	M
+583839	Říčany	O
+549789	Říčky	O
+576735	Říčky v Orlických horách	O
+554103	Řídeč	O
+587851	Řídelov	O
+572233	Řídký	O
+596698	Řikonín	O
+530786	Říkov	O
+517666	Říkovice	O
+545007	Římov	O
+591645	Římov	O
+532941	Řimovice	O
+599115	Řípec	O
+532797	Řisuty	O
+539651	Řitka	O
+565661	Řitonice	O
+541273	Sádek	O
+578720	Sádek	O
+555533	Sadov	O
+573191	Sadová	O
+537764	Sadská	M
+548731	Salačova Lhota	O
+592561	Salaš	O
+534374	Samopše	O
+547077	Samotišky	O
+548740	Samšín	O
+573442	Samšina	O
+537772	Sány	O
+534382	Sázava	M
+574392	Sázava	O
+596701	Sázava	O
+569429	Sázavka	O
+532801	Sazená	O
+588237	Sazomín	O
+585726	Sazovice	O
+573451	Sběř	O
+560146	Sebečice	O
+578738	Sebranice	O
+582310	Sebranice	O
+558311	Seč	O
+572225	Seč	M
+580902	Seč	O
+587877	Sedlatice	O
+541281	Sedlčany	M
+511081	Sedlec	O
+529591	Sedlec	O
+530271	Sedlec	O
+545015	Sedlec	O
+546721	Sedlec	O
+584878	Sedlec	O
+598283	Sedlec	O
+530573	Sedlec-Prčice	M
+599263	Sedlečko u Soběslavě	O
+587885	Sedlejov	O
+548421	Sedletín	O
+548766	Sedlice	O
+551716	Sedlice	M
+564630	Sedlice	O
+540692	Sedliště	O
+548961	Sedliště	O
+578746	Sedliště	O
+598674	Sedliště	O
+599832	Sedlnice	O
+576743	Sedloňov	O
+585734	Sehradice	O
+596710	Sejřek	O
+572144	Sekeřice	O
+534757	Seletice	O
+575615	Selmice	O
+506770	Seloutky	O
+555240	Semanín	O
+536610	Semčice	O
+576751	Semechnice	O
+537781	Semice	O
+576964	Semily	M
+575623	Semín	O
+554201	Semněvice	O
+530859	Semtěš	O
+547727	Sendraž	O
+570796	Sendražice	O
+542369	Senec	O
+582328	Senetářov	O
+537799	Senice	O
+505081	Senice na Hané	O
+552267	Senička	O
+544906	Seninka	O
+538752	Senohraby	O
+542377	Senomaty	T
+591661	Senorady	O
+548774	Senožaty	O
+583847	Sentice	O
+549843	Sepekov	T
+575640	Sezemice	M
+599573	Sezemice	O
+553069	Sezimovo Ústí	M
+531383	Schořov	O
+538761	Sibřina	O
+583855	Silůvky	O
+546488	Sirá	O
+596728	Sirákov	O
+565598	Siřejovice	O
+583863	Sivice	O
+553077	Skalice	O
+570800	Skalice	O
+594768	Skalice	O
+582336	Skalice nad Svitavou	O
+562025	Skalice u České Lípy	O
+517747	Skalička	O
+545295	Skalička	O
+586536	Skalka	O
+589993	Skalka	O
+513890	Skalka u Doks	O
+554812	Skalná	M
+536636	Skalsko	O
+549851	Skály	O
+598909	Skály	O
+579467	Skapce	O
+539937	Skašov	O
+588989	Skaštice	O
+578754	Sklené	O
+596736	Sklené	O
+596744	Sklené nad Oslavou	O
+551741	Skočice	O
+566845	Skomelno	O
+553085	Skopytce	O
+548324	Skorkov	O
+557030	Skorkov	O
+586544	Skoronice	O
+553484	Skorošice	O
+596752	Skorotice	O
+580929	Skořenice	O
+506664	Skořice	O
+568716	Skotnice	O
+552151	Skrbeň	O
+582344	Skrchov	O
+567361	Skršín	O
+560669	Skrýchov u Malšic	O
+542385	Skryje	O
+549894	Skryje	O
+569461	Skryje	O
+596761	Skřinářov	O
+533963	Skřipel	O
+510131	Skřipov	O
+590002	Skřípov	O
+570834	Skřivany	O
+531740	Skuhrov	O
+563803	Skuhrov	O
+569470	Skuhrov	O
+576778	Skuhrov nad Bělou	O
+572241	Skuteč	M
+533696	Skvrňov	O
+542415	Slabce	T
+549860	Slabčice	O
+577529	Slaná	O
+536776	Slaník	O
+532819	Slaný	M
+599026	Slapsko	O
+539660	Slapy	O
+599042	Slapy	O
+532827	Slatina	O
+565601	Slatina	O
+566748	Slatina	O
+568406	Slatina	O
+578436	Slatina	O
+578762	Slatina	O
+580945	Slatina	O
+594776	Slatina	O
+574422	Slatina nad Úpou	O
+576786	Slatina nad Zdobnicí	O
+572268	Slatiňany	M
+505111	Slatinice	O
+590011	Slatinky	O
+573469	Slatiny	O
+545023	Slavče	O
+591688	Slavětice	O
+548553	Slavětín	O
+552194	Slavětín	O
+566713	Slavětín	T
+574431	Slavětín nad Metují	O
+572187	Slavhostice	O
+585751	Slavičín	M
+591700	Slavičky	O
+569488	Slavíkov	O
+545180	Slavíkovice	O
+510289	Slavkov	O
+592579	Slavkov	O
+588997	Slavkov pod Hostýnem	O
+593583	Slavkov u Brna	M
+548341	Slavníč	O
+547166	Slavonice	M
+574457	Slavoňov	O
+534391	Slavošov	O
+575658	Slepotice	O
+551881	Slezské Pavlovice	O
+597813	Slezské Rudoltice	O
+585769	Slopné	O
+582352	Sloup	T
+562050	Sloup v Čechách	O
+580325	Sloupnice	O
+548499	Sloupno	O
+570851	Sloupno	O
+537802	Sloveč	O
+532231	Slověnice	O
+538779	Sluhy	O
+546275	Slunečná	O
+594784	Slup	O
+585777	Slušovice	M
+538787	Sluštice	O
+573604	Služátky	O
+510297	Služovice	O
+532835	Smečno	M
+540722	Smědčice	O
+549878	Smetanova Lhota	O
+570869	Smidary	O
+530611	Smilkov	O
+536652	Smilovice	O
+552658	Smilovice	O
+565407	Smilovice	O
+553123	Smilovy Hory	O
+570877	Smiřice	M
+538027	Smolné Pece	O
+566721	Smolnice	O
+541311	Smolotely	O
+573817	Smrček	O
+550299	Smrčná	O
+591726	Smrk	O
+590029	Smržice	O
+561045	Smržov	O
+570885	Smržov	O
+563811	Smržovka	M
+565610	Snědovice	O
+532436	Snět	O
+576794	Sněžné	O
+596787	Sněžné	T
+593591	Snovídky	O
+573477	Sobčice	O
+530638	Soběhrdy	O
+517844	Soběchleby	O
+558346	Soběkury	O
+545805	Soběnov	O
+573361	Soběraz	O
+553131	Soběslav	M
+564401	Soběslavice	O
+589004	Soběsuky	O
+557099	Soběšice	O
+534293	Soběšín	O
+568791	Soběšovice	O
+572276	Sobětuchy	O
+569518	Sobíňov	O
+517836	Sobíšky	O
+547964	Sobkovice	O
+540986	Sobotín	O
+573493	Sobotka	M
+583880	Sobotovice	O
+586552	Sobůlky	O
+536661	Sojovice	O
+537811	Sokoleč	O
+583898	Sokolnice	O
+560286	Sokolov	M
+541320	Solenice	O
+576808	Solnice	M
+580961	Sopotnice	O
+575666	Sopřeč	O
+562076	Sosnová	O
+597821	Sosnová	O
+531065	Souňov	O
+551759	Sousedovice	O
+599387	Soutice	O
+570907	Sovětice	O
+565539	Sovínky	T
+573027	Sovolusky	O
+558362	Spálené Poříčí	M
+599867	Spálov	T
+554251	Spáňov	O
+596795	Spělkov	O
+556963	Spešov	O
+574198	Spojil	O
+535192	Spomyšl	O
+563340	Spořice	O
+585793	Spytihněv	O
+590045	Srbce	O
+542431	Srbeč	O
+554260	Srbice	O
+567833	Srbice	O
+546348	Srbská Kamenice	O
+531758	Srbsko	O
+540676	Srby	O
+554278	Srby	O
+575682	Srch	O
+557111	Srní	O
+536245	Srnín	O
+553719	Srnojedy	O
+545066	Srubec	O
+580970	Sruby	O
+553140	Stádlec	T
+550515	Stachy	O
+587915	Stáj	O
+594792	Stálky	O
+554294	Staňkov	M
+562378	Staňkov	O
+534412	Staňkovice	O
+543128	Staňkovice	O
+546828	Staňkovice	O
+548812	Stanovice	O
+555550	Stanovice	O
+583901	Stanoviště	O
+541036	Stará Červená Voda	O
+541338	Stará Huť	O
+537837	Stará Lysá	O
+573507	Stará Paka	O
+587923	Stará Říše	T
+517887	Stará Ves	O
+551911	Stará Ves	O
+598739	Stará Ves nad Ondřejnicí	O
+539112	Stará Voda	O
+570915	Stará Voda	O
+561843	Staré Bříště	O
+579661	Staré Buky	O
+598747	Staré Hamry	O
+551813	Staré Heřminovy	O
+547204	Staré Hobzí	O
+545074	Staré Hodějovice	O
+575704	Staré Hradiště	O
+530735	Staré Hrady	O
+592587	Staré Hutě	O
+575712	Staré Jesenčany	O
+562823	Staré Křečany	O
+541079	Staré Město	M
+550752	Staré Město	M
+551767	Staré Město	O
+552551	Staré Město	O
+578789	Staré Město	O
+547212	Staré Město pod Landštejnem	O
+549096	Staré Místo	O
+561185	Staré Sedliště	O
+560642	Staré Sedlo	O
+561193	Staré Sedlo	O
+573523	Staré Smrkovice	O
+568198	Staré Těchanovice	O
+575721	Staré Ždánice	O
+530875	Starkoč	O
+574465	Stárkov	M
+564583	Starosedlský Hrádek	O
+584894	Starovice	O
+584908	Starovičky	O
+573132	Starý Bydžov	O
+592609	Starý Hrozenkov	O
+599905	Starý Jičín	O
+533700	Starý Kolín	O
+575739	Starý Mateřov	O
+594806	Starý Petřín	O
+558371	Starý Plzenec	M
+586561	Starý Poddvorov	O
+545538	Starý Šachov	O
+534889	Starý Vestec	O
+591742	Stařeč	T
+590053	Stařechovice	O
+552569	Staříč	O
+531766	Stašov	O
+578801	Stašov	O
+539686	Statenice	O
+570281	Stavenice	O
+586579	Stavěšice	O
+572934	Stéblová	O
+546925	Stebno	O
+510343	Stěbořice	O
+532851	Stehelčeves	O
+529885	Stehlovice	O
+570931	Stěžery	O
+590061	Stínava	O
+558389	Stod	M
+532860	Stochov	M
+561452	Stojčín	O
+575755	Stojice	O
+547891	Stolany	O
+587931	Stonařov	T
+599140	Stonava	O
+594814	Stošíkovice na Louce	O
+550523	Stožec	O
+530034	Stožice	O
+570958	Stračov	O
+599441	Stradonice	O
+572306	Stradouň	O
+512869	Strahovice	O
+587940	Strachoňovice	O
+594822	Strachotice	O
+584916	Strachotín	O
+596809	Strachujov	O
+550787	Strakonice	M
+578819	Strakov	O
+537853	Straky	O
+538809	Strančice	O
+596817	Stránecká Zhoř	O
+592617	Strání	O
+531731	Stránka	O
+599379	Stranný	O
+551775	Strašice	O
+560162	Strašice	O
+557129	Strašín	O
+565679	Straškov-Vodochody	O
+536709	Strašnov	O
+575763	Strašov	O
+537861	Stratov	O
+554316	Stráž	O
+561207	Stráž	T
+547221	Stráž nad Nežárkou	M
+544477	Stráž nad Nisou	O
+555584	Stráž nad Ohří	O
+562092	Stráž pod Ralskem	M
+596825	Strážek	T
+590070	Stražisko	O
+571881	Strážiště	O
+545082	Strážkovice	O
+580988	Strážná	O
+579696	Strážné	O
+586587	Strážnice	M
+550531	Strážný	T
+557137	Strážov	M
+586595	Strážovice	O
+536717	Strenice	O
+582379	Strhaře	O
+547239	Strmilov	M
+599361	Strojetice	O
+587460	Stropešín	O
+530689	Struhařov	O
+538825	Struhařov	O
+569054	Strukov	O
+550540	Strunkovice nad Blanicí	T
+536784	Strunkovice nad Volyňkou	O
+563358	Strupčice	O
+577545	Stružinec	O
+555592	Stružná	O
+562106	Stružnice	O
+536032	Strýčice	O
+539708	Středokluky	O
+540056	Střelice	O
+583910	Střelice	O
+594831	Střelice	O
+544914	Střelná	O
+551791	Střelské Hoštice	O
+572314	Střemošice	O
+535214	Střemy	O
+547018	Střeň	O
+573540	Střevač	O
+570966	Střezetice	O
+530701	Střezimíř	O
+560651	Stříbrná	O
+533718	Stříbrná Skalice	O
+569534	Stříbrné Hory	O
+552887	Stříbrnice	O
+592625	Stříbrnice	O
+561215	Stříbro	M
+547247	Stříbřec	O
+589039	Střílky	O
+537594	Střítež	O
+549886	Střítež	O
+551538	Střítež	O
+552674	Střítež	O
+554871	Střítež	O
+587958	Střítež	O
+544922	Střítež nad Bečvou	O
+517909	Střítež nad Ludinou	O
+561487	Střítež pod Křemešníkem	O
+545091	Střížov	O
+508152	Střížovice	O
+558401	Střížovice	O
+589047	Střížovice	O
+561223	Studánka	O
+547263	Studená	O
+553603	Studená	O
+580996	Studené	O
+577553	Studenec	O
+591769	Studenec	O
+551457	Studeněves	O
+599921	Studénka	M
+530719	Studený	O
+572322	Studnice	O
+574481	Studnice	O
+591777	Studnice	O
+593605	Studnice	O
+592633	Stupava	O
+562114	Stvolínky	O
+582620	Stvolová	O
+531391	Sudějov	O
+510378	Sudice	O
+582395	Sudice	O
+591785	Sudice	O
+581003	Sudislav nad Orlicí	O
+541109	Sudkov	O
+565920	Sudoměř	O
+586609	Sudoměřice	O
+553166	Sudoměřice u Bechyně	O
+553174	Sudoměřice u Tábora	O
+571954	Sudovo Hlavno	O
+581011	Sudslava	O
+587982	Suchá	O
+578835	Suchá Lhota	O
+592641	Suchá Loz	O
+534439	Suchdol	T
+590088	Suchdol	O
+547280	Suchdol nad Lužnicí	M
+599930	Suchdol nad Odrou	T
+541371	Suchodol	O
+555231	Suchohrdly	O
+594849	Suchohrdly u Miroslavi	O
+531782	Suchomasty	O
+569771	Suchonice	O
+586617	Suchov	O
+579726	Suchovršice	O
+582409	Suchý	O
+574490	Suchý Důl	O
+536768	Sukorady	O
+548880	Sukorady	O
+565695	Sulejovice	O
+538833	Sulice	O
+582417	Sulíkov	O
+589055	Sulimov	O
+561231	Sulislav	O
+596833	Sulkovec	O
+541117	Supíkovice	O
+518026	Sušice	O
+557153	Sušice	M
+592650	Sušice	O
+592668	Svárov	O
+599433	Svárov	O
+531791	Svatá	O
+550558	Svatá Maří	O
+538434	Svatava	T
+541389	Svaté Pole	O
+586625	Svatobořice-Mistřín	O
+573302	Svatojanský Újezd	O
+547131	Svatoňovice	O
+583928	Svatoslav	O
+591793	Svatoslav	O
+541397	Svatý Jan	O
+545104	Svatý Jan nad Malší	O
+531804	Svatý Jan pod Skalou	O
+580708	Svatý Jiří	O
+534196	Svatý Mikuláš	O
+541125	Svébohov	O
+598305	Svémyslice	O
+598763	Svépravice	O
+557161	Svéradice	O
+552429	Svésedlice	O
+561029	Světce	O
+567841	Světec	O
+548154	Světí	O
+538841	Světice	O
+586064	Světlá	O
+597872	Světlá Hora	O
+569569	Světlá nad Sázavou	M
+564427	Světlá pod Ještědem	O
+545813	Světlík	O
+596841	Světnov	O
+569631	Sviadnov	O
+548693	Svídnice	O
+572331	Svídnice	O
+564435	Svijanský Újezd	O
+564443	Svijany	O
+531812	Svinaře	O
+532908	Svinařov	O
+575771	Svinčany	O
+582433	Svinošice	O
+553182	Sviny	O
+596850	Sviny	O
+582441	Svitávka	T
+577731	Svitavy	M
+579734	Svoboda nad Úpou	M
+597881	Svobodné Heřmanice	O
+578843	Svojanov	T
+577561	Svojek	O
+538850	Svojetice	O
+542458	Svojetín	O
+546283	Svojkov	O
+541176	Svojkovice	O
+587991	Svojkovice	O
+533726	Svojšice	O
+564273	Svojšice	O
+575780	Svojšice	O
+561258	Svojšín	O
+562131	Svor	O
+563170	Svrabov	O
+596868	Svratka	M
+572349	Svratouch	O
+571342	Svrkyně	O
+564451	Sychrov	O
+542466	Sýkořice	O
+582450	Synalov	O
+576816	Synkov-Slemeno	O
+598771	Syrov	O
+571008	Syrovátka	O
+583936	Syrovice	O
+586633	Syrovín	O
+577570	Syřenov	O
+557081	Sytno	O
+538396	Šabina	O
+594865	Šafov	O
+584924	Šakvice	O
+542474	Šanov	O
+585807	Šanov	O
+594873	Šanov	O
+571016	Šaplava	O
+593613	Šaratice	O
+586641	Šardice	O
+573256	Šárovcova Lhota	O
+585815	Šarovy	O
+594881	Šatov	T
+531421	Šebestěnice	O
+582468	Šebetov	O
+553204	Šebířov	O
+591807	Šebkovice	O
+582476	Šebrov-Kateřina	O
+581038	Šedivec	O
+557188	Šelešovice	O
+555614	Šemnice	O
+598798	Šenov	M
+554171	Šenov u Nového Jičína	O
+583944	Šerkovice	O
+538876	Šestajovice	O
+547654	Šestajovice	O
+532509	Šetějovice	O
+545121	Ševětín	T
+510432	Šilheřovice	O
+588008	Šimanov	O
+564460	Šimonovice	O
+560677	Šindelová	O
+598496	Šípy	O
+597899	Široká Niva	O
+578851	Široký Důl	O
+552950	Šišma	O
+584932	Šitbořice	O
+596876	Škrdlovice	O
+538884	Škvorec	T
+551830	Škvořetice	O
+532916	Šlapanice	O
+583952	Šlapanice	M
+569585	Šlapanov	O
+570117	Šléglov	O
+562858	Šluknov	M
+574511	Šonov	O
+582484	Šošůvka	O
+570061	Špičky	O
+579742	Špindlerův Mlýn	M
+568333	Štáblovice	O
+558427	Šťáhlavy	O
+552011	Štarnov	O
+555622	Štědrá	O
+582492	Štěchov	O
+536920	Štěchovice	O
+539732	Štěchovice	T
+551856	Štěkeň	T
+591815	Štěměchy	O
+558435	Štěnovice	O
+539741	Štěnovický Borek	O
+510483	Štěpánkovice	O
+505161	Štěpánov	O
+596884	Štěpánov nad Svratkou	T
+545139	Štěpánovice	O
+583961	Štěpánovice	O
+591823	Štěpkov	O
+505188	Šternberk	M
+565709	Štětí	M
+541419	Štětkovice	O
+571644	Štíhlice	O
+566101	Štichov	O
+578797	Štichovice	O
+530930	Štipoklasy	O
+594890	Štítary	T
+510491	Štítina	O
+585831	Štítná nad Vláří-Popov	O
+579343	Štítov	O
+541168	Štíty	M
+569593	Štoky	T
+599948	Štramberk	M
+544931	Študlov	O
+578860	Študlov	O
+590096	Šubířov	O
+550574	Šumavské Hoštice	O
+592676	Šumice	O
+594903	Šumice	O
+594911	Šumná	O
+523704	Šumperk	M
+505218	Šumvald	O
+593621	Švábenice	T
+547255	Švábov	O
+557200	Švihov	M
+565326	Švihov	O
+552046	Tábor	M
+531821	Tachlovice	O
+553638	Tachov	O
+560715	Tachov	M
+549932	Tálín	O
+563820	Tanvald	M
+586650	Tasov	O
+591831	Tasov	O
+582506	Tasovice	O
+594920	Tasovice	O
+568287	Tašov	O
+537888	Tatce	O
+581046	Tatenice	O
+578983	Tatiná	O
+577596	Tatobity	O
+538663	Tatrovice	O
+594938	Tavíkovice	O
+549649	Tečovice	O
+530751	Tehov	O
+538892	Tehov	O
+599719	Tehovec	O
+529664	Těchařovice	O
+555193	Těchlovice	O
+571024	Těchlovice	O
+561355	Těchobuz	O
+581054	Těchonín	O
+588024	Telč	M
+578878	Telecí	O
+568295	Telnice	O
+583979	Telnice	O
+545155	Temelín	O
+562271	Temešvár	O
+548936	Těmice	O
+586668	Těmice	O
+560189	Těně	O
+555631	Teplá	M
+567442	Teplice	S
+519031	Teplice nad Bečvou	O
+574538	Teplice nad Metují	M
+537845	Teplička	O
+530760	Teplýšovice	O
+566802	Terešov	O
+565717	Terezín	M
+586676	Terezín	O
+599158	Těrlicko	O
+583995	Těšany	O
+505269	Těšetice	O
+594946	Těšetice	O
+546526	Těškov	O
+512745	Těškovice	O
+550582	Těšovice	O
+579360	Těšovice	O
+583987	Tetčice	O
+531839	Tetín	O
+572756	Tetín	O
+575810	Tetov	O
+536598	Tchořovice	O
+599956	Tichá	O
+530778	Tichonice	O
+535184	Tichov	O
+569615	Tis	O
+559482	Tis u Blatna	O
+568309	Tisá	O
+599964	Tísek	O
+532592	Tisem	O
+533734	Tismice	O
+541621	Tisová	O
+581062	Tisová	O
+572381	Tisovec	O
+535222	Tišice	O
+584002	Tišnov	M
+596892	Tišnovská Nová Ves	O
+590100	Tištín	T
+559491	Tlučná	O
+554341	Tlumačov	O
+585858	Tlumačov	O
+531847	Tlustice	O
+531855	Tmaň	O
+534463	Točník	O
+541427	Tochovice	O
+578614	Tojice	O
+532541	Tomice	O
+593630	Topolany	O
+592692	Topolná	O
+533742	Toušice	O
+566829	Toužetín	O
+555657	Toužim	M
+519146	Tovačov	M
+552089	Tovéř	O
+592706	Traplice	O
+565741	Travčice	O
+584011	Trboušany	O
+554359	Trhanov	O
+572390	Trhová Kamenice	T
+598429	Trhové Dušníky	O
+545171	Trhové Sviny	M
+530816	Trhový Štěpánov	M
+553697	Trmice	M
+585866	Trnava	O
+591840	Trnava	O
+530794	Trnávka	O
+569755	Trnávka	O
+576824	Trnov	O
+559504	Trnová	O
+598313	Trnová	O
+542407	Trnovany	O
+594954	Trnové Pole	O
+599999	Trojanovice	O
+572403	Trojovice	O
+579246	Trokavec	O
+594962	Troskotovice	T
+577600	Troskovice	O
+579751	Trotina	O
+505293	Troubelice	O
+519651	Troubky	O
+589080	Troubky-Zdislavice	O
+584029	Troubsko	O
+547921	Trpík	O
+578886	Trpín	O
+561291	Trpísty	O
+569623	Trpišovice	O
+554855	Trstěnice	O
+578894	Trstěnice	O
+594971	Trstěnice	O
+505366	Tršice	O
+533106	Trubín	O
+531880	Trubská	O
+536512	Truskovice	O
+575828	Trusnov	O
+579025	Trutnov	M
+572616	Tržek	O
+552623	Třanovice	O
+578908	Třebařov	O
+578592	Třebčice	O
+571041	Třebechovice pod Orebem	M
+563153	Třebějice	O
+591858	Třebelovice	O
+539023	Třebeň	O
+565768	Třebenice	M
+591866	Třebenice	O
+537896	Třebestovice	O
+530981	Třebešice	O
+532304	Třebešice	O
+576832	Třebešov	O
+562327	Třebětice	O
+589098	Třebětice	O
+530972	Třebětín	O
+590266	Třebíč	M
+579769	Třebihošť	O
+532959	Třebichovice	O
+565776	Třebívlice	O
+532967	Třebíz	O
+573612	Třebnouševes	O
+542504	Třeboc	O
+551899	Třebohostice	O
+569101	Třebom	O
+547336	Třeboň	M
+571741	Třebonín	O
+572985	Třebosice	O
+539759	Třebotov	O
+581071	Třebovice	O
+533751	Třebovle	O
+541451	Třebsko	O
+532975	Třebusice	O
+565792	Třebušín	O
+597911	Třemešná	O
+561304	Třemešné	O
+559521	Třemošná	M
+572411	Třemošnice	M
+550311	Třesov	O
+571059	Třesovice	O
+536679	Třešovice	O
+588032	Třešť	M
+588041	Třeštice	O
+553336	Třeština	O
+533769	Tři Dvory	O
+554880	Tři Sekery	O
+587753	Tři Studně	O
+504921	Třibřichy	O
+598810	Třinec	M
+573639	Třtěnice	O
+542512	Třtice	O
+553239	Tučapy	O
+592714	Tučapy	O
+593648	Tučapy	O
+520047	Tučín	O
+531561	Tuhaň	O
+546267	Tuhaň	O
+532983	Tuchlovice	O
+539767	Tuchoměřice	O
+533777	Tuchoraz	O
+566853	Tuchořice	O
+533785	Tuklaty	O
+594989	Tulešice	O
+572420	Tuněchody	O
+529583	Tupadly	O
+534480	Tupadly	O
+592722	Tupesy	O
+575844	Turkovice	O
+577626	Turnov	M
+551601	Turovec	O
+552836	Turovice	O
+539775	Tursko	O
+573647	Tuř	O
+532177	Tuřany	O
+539619	Tuřany	O
+570982	Tuřice	O
+598330	Tušovice	O
+576841	Tutleky	O
+553522	Tužice	O
+584037	Tvarožná	O
+586684	Tvarožná Lhota	O
+590118	Tvorovice	O
+594997	Tvořihráz	O
+551821	Tvrdkov	O
+584941	Tvrdonice	O
+550604	Tvrzice	O
+546534	Týček	O
+558460	Tymákov	O
+570079	Týn nad Bečvou	O
+545201	Týn nad Vltavou	M
+541885	Týnec	O
+584959	Týnec	O
+533807	Týnec nad Labem	M
+530841	Týnec nad Sázavou	M
+539929	Týniště	O
+576859	Týniště nad Orlicí	M
+575861	Týnišťko	O
+573655	Úbislavice	O
+585874	Ublo	O
+566161	Úboč	O
+549959	Ubušínek	O
+563382	Údlice	O
+573663	Údrnice	O
+541214	Uhelná	O
+569640	Uhelná Příbram	T
+546178	Úherce	O
+546411	Úherce	O
+584967	Uherčice	O
+595004	Uherčice	O
+530697	Úherčice	O
+592005	Uherské Hradiště	M
+575879	Uhersko	O
+592731	Uherský Brod	M
+592749	Uherský Ostroh	M
+573671	Úhlejov	O
+568341	Uhlířov	O
+533815	Uhlířská Lhota	O
+534498	Uhlířské Janovice	M
+571351	Úholičky	O
+532991	Úhonice	O
+548537	Úhořilka	O
+572446	Úhřetice	O
+575887	Úhřetická Lhota	O
+550191	Uhřice	O
+582531	Uhřice	O
+586692	Uhřice	O
+589110	Uhřice	O
+552879	Uhřičice	O
+596906	Uhřínov	O
+533009	Uhy	O
+596914	Ujčov	O
+505501	Újezd	O
+531901	Újezd	O
+554383	Újezd	O
+585882	Újezd	O
+595012	Újezd	O
+596922	Újezd	O
+566594	Újezd nade Mží	O
+573680	Újezd pod Troskami	O
+534692	Újezd u Boskovic	O
+584045	Újezd u Brna	M
+582557	Újezd u Černé Hory	O
+581089	Újezd u Chocně	O
+578321	Újezd u Plánice	O
+575909	Újezd u Přelouče	O
+584053	Újezd u Rosic	O
+572888	Újezd u Sezemic	O
+546551	Újezd u Svatého Kříže	O
+549908	Újezd u Tišnova	O
+507644	Újezdec	O
+537535	Újezdec	O
+578916	Újezdec	O
+592757	Újezdec	O
+599492	Újezdec	O
+567850	Újezdeček	O
+570761	Ujkovice	O
+536695	Úlehle	O
+573698	Úlibice	O
+559555	Úlice	O
+534501	Úmonín	O
+537900	Úmyslovice	O
+595021	Únanov	O
+596931	Unčín	O
+541435	Únehle	O
+554391	Únějovice	O
+559563	Úněšov	O
+539805	Únětice	O
+540528	Únětice	O
+533017	Unhošť	M
+563951	Únice	O
+505587	Uničov	M
+582565	Unín	O
+584061	Unkovice	O
+579777	Úpice	M
+565806	Úpohlavy	O
+513717	Urbanice	O
+575917	Urbanice	O
+588067	Urbanov	O
+590126	Určice	O
+535494	Úsilné	O
+554405	Úsilov	O
+569658	Úsobí	T
+582573	Úsobrno	O
+541222	Úsov	M
+520306	Ústí	O
+570371	Ústí	O
+588075	Ústí	O
+554804	Ústí nad Labem	S
+579891	Ústí nad Orlicí	M
+552364	Ústín	O
+599123	Ústrašice	O
+537608	Ústrašín	O
+553883	Ústup	O
+584070	Úsuší	O
+565814	Úštěk	M
+572624	Útěchov	O
+548987	Útěchovice	O
+562033	Útěchovice pod Stražištěm	O
+537730	Útěchovičky	O
+559571	Úterý	M
+558486	Útušice	O
+555681	Útvina	O
+597937	Úvalno	O
+538957	Úvaly	M
+551937	Uzenice	O
+536890	Uzeničky	O
+534510	Úžice	O
+535257	Úžice	O
+586706	Vacenovice	O
+532061	Václavice	O
+597945	Václavov u Bruntálu	O
+598836	Václavovice	O
+565512	Václavy	O
+550621	Vacov	O
+536504	Vacovice	O
+553255	Val	O
+576875	Val	O
+544949	Valašská Bystřice	O
+544990	Valašská Polanka	O
+553026	Valašská Senice	O
+585891	Valašské Klobouky	M
+545058	Valašské Meziříčí	M
+545112	Valašské Příkazy	O
+573701	Valdice	O
+587699	Valdíkov	O
+555690	Valeč	O
+591874	Valeč	O
+582581	Valchov	O
+562874	Valkeřice	O
+551783	Valšov	O
+584975	Valtice	M
+595039	Valtrovice	O
+539481	Valy	O
+575925	Valy	O
+576883	Vamberk	M
+588083	Vanov	O
+582590	Vanovice	O
+588091	Vanůvek	O
+592773	Vápenice	O
+541249	Vápenná	O
+572454	Vápenný Podol	O
+575933	Vápno	O
+588105	Vápovice	O
+562882	Varnsdorf	M
+562211	Varvažov	O
+596949	Vatín	O
+534528	Vavřinec	O
+582603	Vavřinec	O
+582611	Vážany	O
+592781	Vážany	O
+593656	Vážany	O
+593664	Vážany nad Litavou	O
+572462	Včelákov	T
+545228	Včelná	O
+549002	Včelnička	O
+596957	Věcov	O
+565831	Vědomice	O
+595047	Vedrovice	O
+596965	Věchnov	O
+559580	Vejprnice	O
+563404	Vejprty	M
+560227	Vejvanov	O
+572471	Vejvanovice	O
+584096	Velatice	O
+578924	Velečín	O
+592790	Velehrad	O
+565849	Velemín	O
+566870	Velemyšleves	O
+538965	Veleň	O
+536083	Velenice	O
+562173	Velenice	O
+534871	Velenka	O
+530824	Velenov	O
+545821	Velešín	M
+593681	Velešovice	O
+592803	Veletiny	O
+533823	Veletov	O
+557366	Velhartice	O
+555703	Velichov	O
+574554	Velichovky	O
+538973	Veliká Ves	O
+563412	Veliká Ves	O
+533831	Velim	O
+575941	Veliny	O
+530867	Veliš	O
+573728	Veliš	O
+596973	Velká Bíteš	M
+542563	Velká Buková	O
+562891	Velká Bukovina	O
+505609	Velká Bystřice	M
+533025	Velká Dobrá	O
+539279	Velká Hleďsebe	O
+529699	Velká Chmelištná	O
+549011	Velká Chyška	O
+574562	Velká Jesenice	O
+553468	Velká Kraš	O
+513539	Velká Lečice	O
+545147	Velká Lhota	O
+596981	Velká Losenice	O
+586714	Velká nad Veličkou	O
+510882	Velká Polom	O
+581101	Velká Skrovnice	O
+551694	Velká Štáhle	O
+536741	Velká Turná	O
+568422	Velké Albrechtice	O
+584983	Velké Bílovice	M
+568350	Velké Březno	O
+563838	Velké Hamry	M
+510891	Velké Heraltice	O
+584991	Velké Hostěrádky	O
+510939	Velké Hoštice	O
+557374	Velké Hydčice	O
+555223	Velké Chvojno	O
+596990	Velké Janovice	O
+545163	Velké Karlovice	O
+569453	Velké Kunětice	O
+541265	Velké Losiny	O
+597007	Velké Meziříčí	M
+585009	Velké Němčice	T
+582646	Velké Opatovice	M
+585017	Velké Pavlovice	M
+574571	Velké Petrovice	O
+538981	Velké Popovice	O
+547646	Velké Poříčí	T
+539813	Velké Přílepy	O
+533033	Velké Přítočno	O
+579785	Velké Svatoňovice	O
+587893	Velké Tresné	O
+536857	Velké Všelisy	O
+565857	Velké Žernoseky	O
+588113	Velký Beranov	O
+557382	Velký Bor	O
+535265	Velký Borek	O
+531910	Velký Chlumec	O
+545325	Velký Karlov	O
+578002	Velký Luh	O
+554413	Velký Malahov	O
+585912	Velký Ořechov	O
+533840	Velký Osek	O
+562599	Velký Ratmírov	O
+549045	Velký Rybník	O
+562912	Velký Šenov	M
+574589	Velký Třebešov	O
+505650	Velký Týnec	O
+505668	Velký Újezd	T
+562203	Velký Valtinov	O
+579793	Velký Vřešťov	T
+552615	Vělopolí	O
+566896	Veltěže	O
+533858	Veltruby	O
+535273	Veltrusy	M
+533041	Velvary	M
+595055	Vémyslice	T
+578932	Vendolí	O
+554928	Vendryně	O
+569674	Vepříkov	O
+597015	Vepřová	O
+581119	Verměřovice	O
+562921	Verneřice	M
+547743	Vernéřovice	O
+554146	Vernířovice	O
+552119	Věrovany	O
+555711	Verušičky	O
+500259	Veřovice	O
+558494	Ves Touškov	O
+553263	Vesce	O
+549053	Veselá	O
+560235	Veselá	O
+577642	Veselá	O
+585921	Veselá	O
+562939	Veselé	O
+575968	Veselí	O
+553271	Veselí nad Lužnicí	M
+586722	Veselí nad Moravou	M
+565725	Veselice	O
+520420	Veselíčko	O
+549975	Veselíčko	O
+569682	Veselý Žďár	O
+513458	Vestec	O
+537942	Vestec	O
+547565	Vestec	O
+597031	Věstín	O
+541508	Věšín	O
+586731	Věteřov	O
+588121	Větrný Jeníkov	T
+538990	Větrušice	O
+570036	Větřkovice	O
+545830	Větřní	O
+595063	Vevčice	O
+584100	Veverská Bítýška	T
+584118	Veverské Knínice	O
+569691	Věž	O
+552755	Věžky	O
+589128	Věžky	O
+549061	Věžná	O
+597040	Věžná	O
+569704	Věžnice	O
+588130	Věžnice	O
+588148	Věžnička	O
+536300	Věžovatá Pláně	O
+565865	Vchynice	O
+590134	Víceměřice	O
+561037	Vícemil	O
+588342	Vícenice	O
+511242	Vícenice u Náměště nad Oslavou	O
+590142	Vícov	O
+545198	Vidče	O
+597058	Vídeň	O
+534536	Vidice	O
+554421	Vidice	O
+531936	Vidim	O
+578941	Vidlatá Seč	O
+541303	Vidnava	M
+573736	Vidochov	O
+597066	Vidonín	O
+535737	Vidov	O
+545210	Vigantice	O
+577651	Víchová nad Jizerou	O
+553191	Vikantice	O
+569445	Vikýřovice	O
+588156	Vílanec	O
+574597	Vilantice	O
+562947	Vilémov	O
+563439	Vilémov	O
+568961	Vilémov	O
+569712	Vilémov	T
+569721	Vilémovice	O
+582654	Vilémovice	O
+553280	Vilice	O
+550647	Vimperk	M
+571083	Vinary	O
+572489	Vinary	O
+534544	Vinaře	O
+533050	Vinařice	O
+534234	Vinařice	O
+565628	Vinařice	O
+566918	Vinařice	O
+544710	Vincencov	O
+570842	Vinec	O
+584126	Viničné Šumice	O
+560685	Vintířov	O
+597074	Vír	O
+573582	Víska	O
+578959	Víska u Jevíčka	O
+579289	Vísky	O
+582662	Vísky	O
+507652	Višňová	O
+541516	Višňová	O
+564494	Višňová	O
+595071	Višňové	T
+572497	Vítanov	O
+590151	Vitčice	O
+578967	Vítějeves	O
+550655	Vitějovice	O
+579815	Vítězná	O
+533866	Vitice	O
+535893	Vitín	O
+573752	Vitiněves	O
+511021	Vítkov	M
+577669	Vítkovice	O
+589136	Vítonice	O
+595080	Vítonice	O
+585939	Vizovice	M
+534048	Vižina	O
+534552	Vlačice	O
+591904	Vladislav	T
+586994	Vlachova Lhota	O
+585955	Vlachovice	O
+587869	Vlachovice	O
+550663	Vlachovo Březí	M
+585025	Vlasatice	O
+598844	Vlastec	O
+534561	Vlastějovice	O
+553298	Vlastiboř	O
+563846	Vlastiboř	O
+564516	Vlastibořice	O
+565873	Vlastislav	O
+530883	Vlašim	M
+591912	Vlčatín	O
+598640	Vlčetínec	O
+563447	Vlčeves	O
+566691	Vlčí	O
+575984	Vlčí Habřina	O
+541346	Vlčice	O
+579823	Vlčice	O
+581127	Vlčkov	O
+585963	Vlčková	O
+579831	Vlčkovice v Podkrkonoší	O
+592820	Vlčnov	O
+540706	Vlčtejn	O
+533874	Vlkančice	O
+534579	Vlkaneč	O
+566250	Vlkanov	O
+569739	Vlkanov	O
+565571	Vlkava	O
+547433	Vlkoš	O
+586749	Vlkoš	O
+535915	Vlkov	O
+553310	Vlkov	O
+574601	Vlkov	O
+597082	Vlkov	O
+537951	Vlkov pod Oškobrhem	O
+539376	Vlkovice	O
+598852	Vlksice	O
+586757	Vnorovy	O
+576891	Voděrady	O
+581143	Voděrady	O
+582671	Voděrady	O
+553328	Vodice	O
+551953	Vodňany	M
+539015	Vodochody	O
+531014	Vodranty	O
+532614	Vodslivy	O
+584134	Vohančice	O
+559601	Vochov	O
+530891	Vojkov	O
+535290	Vojkovice	O
+552488	Vojkovice	O
+555738	Vojkovice	O
+584142	Vojkovice	O
+562289	Vojníkov	O
+597091	Vojnův Městec	T
+549126	Vojslavice	O
+539074	Vojtanov	O
+572501	Vojtěchov	O
+599239	Vokov	O
+573761	Volanice	O
+533882	Volárna	O
+550671	Volary	M
+560251	Volduchy	O
+575992	Voleč	O
+541524	Volenice	O
+551961	Volenice	O
+546437	Volevčice	O
+588164	Volevčice	O
+562220	Volfartice	O
+547441	Volfířov	O
+551970	Volyně	M
+539830	Vonoklasy	O
+572527	Vortová	O
+530905	Votice	M
+541541	Voznice	O
+545261	Vrábče	O
+581151	Vraclav	O
+586765	Vracov	M
+530913	Vracovice	O
+550019	Vracovice	O
+548022	Vračovice-Orlov	O
+535303	Vraňany	O
+564362	Vrančice	O
+539848	Vrané nad Vltavou	O
+530921	Vranov	O
+579491	Vranov	O
+584151	Vranov	O
+595098	Vranov nad Dyjí	T
+582689	Vranová	O
+578975	Vranová Lhota	O
+541567	Vranovice	O
+585033	Vranovice	O
+590177	Vranovice-Kelčice	O
+595101	Vranovská Ves	O
+533068	Vraný	T
+595110	Vratěnín	O
+598879	Vratimov	M
+597104	Vratislávka	O
+564826	Vrátkov	O
+572021	Vrátno	O
+535796	Vráto	O
+531944	Vráž	O
+549991	Vráž	O
+565881	Vražkov	O
+554910	Vražné	O
+572292	Vrážné	O
+590185	Vrbátky	O
+572535	Vrbatův Kostelec	O
+533891	Vrbčany	O
+529915	Vrbice	O
+548707	Vrbice	O
+565890	Vrbice	O
+566675	Vrbice	O
+572128	Vrbice	O
+585041	Vrbice	O
+599611	Vrbice	O
+565903	Vrbičany	O
+571431	Vrbičany	O
+542393	Vrbka	O
+566926	Vrbno nad Lesy	O
+597961	Vrbno pod Pradědem	M
+537977	Vrbová Lhota	O
+595128	Vrbovec	O
+550001	Vrcovice	O
+558559	Vrčeň	O
+534587	Vrdy	O
+557455	Vrhaveč	O
+579858	Vrchlabí	M
+590193	Vrchoslavice	O
+530948	Vrchotovy Janovice	T
+562238	Vrchovany	O
+548057	Vrchovnice	O
+569747	Vrchy	O
+566934	Vroutek	M
+563463	Vrskmaň	O
+573795	Vršce	O
+511161	Vršovice	O
+546887	Vršovice	O
+574627	Vršovka	O
+565911	Vrutice	O
+500291	Vřesina	O
+568244	Vřesina	O
+566055	Vřeskovice	O
+549029	Vřesník	O
+560707	Vřesová	O
+586773	Vřesovice	O
+590207	Vřesovice	O
+541630	Vsetín	M
+558567	Vstiš	O
+563471	Všehrdy	O
+566497	Všehrdy	O
+532266	Všechlapy	O
+537985	Všechlapy	O
+521531	Všechovice	O
+584169	Všechovice	O
+536938	Všejany	O
+566071	Všekary	O
+564532	Všelibice	O
+585971	Všemina	O
+545287	Všemyslice	O
+577677	Všeň	O
+566799	Všenice	O
+539856	Všenory	O
+554448	Všepadly	O
+531952	Všeradice	O
+572543	Všeradov	O
+554456	Všeruby	T
+559628	Všeruby	M
+539031	Všestary	O
+571091	Všestary	O
+535311	Všestudy	O
+563480	Všestudy	O
+565130	Všesulov	O
+535320	Všetaty	T
+542598	Všetaty	O
+598437	Vševily	O
+591939	Výčapy	O
+562629	Vydří	O
+537993	Vykáň	O
+549134	Vyklantice	O
+547450	Výkleky	O
+581178	Výprachtice	O
+571105	Výrava	O
+566969	Výrov	O
+595136	Výrovice	O
+577685	Vyskeř	O
+549142	Vyskytná	O
+588172	Vyskytná nad Jihlavou	O
+563498	Výsluní	M
+582701	Vysočany	O
+595144	Vysočany	O
+572551	Vysočina	O
+530654	Vysoká	O
+535338	Vysoká	O
+578991	Vysoká	O
+597970	Vysoká	O
+561771	Vysoká Lhota	O
+530280	Vysoká Libyně	O
+571113	Vysoká nad Labem	O
+563501	Vysoká Pec	O
+578029	Vysoká Pec	O
+574635	Vysoká Srbská	O
+541583	Vysoká u Příbramě	O
+588334	Vysoké	O
+576000	Vysoké Chvojno	O
+581186	Vysoké Mýto	M
+577693	Vysoké nad Jizerou	M
+585980	Vysoké Pole	O
+584177	Vysoké Popovice	O
+588181	Vysoké Studnice	O
+573809	Vysoké Veselí	M
+574643	Vysokov	O
+541591	Vysoký Chlumec	T
+513482	Vysoký Újezd	O
+531961	Vysoký Újezd	O
+548677	Vysoký Újezd	O
+588199	Vystrčenovice	O
+561797	Vystrkov	O
+576018	Vyšehněvice	O
+570095	Vyšehoří	O
+539040	Vyšehořovice	O
+592889	Vyškov	M
+566951	Výškov	O
+592838	Vyškovec	O
+552682	Vyšní Lhoty	O
+590215	Výšovice	O
+545848	Vyšší Brod	M
+564796	Výžerky	O
+547841	Vyžice	O
+533904	Vyžlovka	O
+571415	Xaverov	O
+547514	Zábeštní Lhota	O
+508683	Záblatí	O
+550680	Záblatí	O
+597112	Záblatí	O
+588202	Záborná	O
+545317	Záboří	O
+551988	Záboří	O
+534595	Záboří nad Labem	O
+537195	Zábrdí	O
+574651	Zábrodí	O
+567868	Zabrušany	O
+541354	Zábřeh	M
+548839	Zábřezí-Řečice	O
+541362	Zadní Chodov	O
+563927	Zadní Střítež	O
+531979	Zadní Třebaň	O
+587231	Zadní Vydří	O
+597121	Zadní Zhořec	O
+581194	Zádolí	O
+539431	Zádub-Závišín	O
+585998	Zádveřice-Raková	O
+536016	Zahájí	O
+589152	Zahnašovice	O
+536482	Zahorčice	O
+534471	Záhornice	O
+592846	Záhorovice	O
+554464	Zahořany	O
+571288	Zahořany	O
+507695	Záhoří	O
+550027	Záhoří	O
+577707	Záhoří	O
+599000	Záhoří	O
+578827	Zahrádka	O
+591947	Zahrádka	O
+547468	Zahrádky	O
+562246	Zahrádky	O
+541664	Záchlumí	O
+581208	Záchlumí	O
+549177	Zachotín	O
+571130	Zachrašťany	O
+585050	Zaječí	O
+572578	Zaječice	O
+531995	Zaječov	O
+571598	Zájezd	O
+547859	Zájezdec	O
+561975	Zajíčkov	O
+533092	Zákolany	O
+584185	Zakřany	O
+562262	Zákupy	M
+595152	Zálesí	O
+584193	Zálesná Zhoř	O
+513202	Zalešany	O
+535354	Zálezlice	O
+550698	Zálezly	O
+574660	Zaloňov	O
+553361	Zálší	O
+581216	Zálší	O
+541613	Zalužany	O
+532002	Záluží	O
+542482	Záluží	O
+530603	Zálužice	O
+576921	Záměl	O
+549193	Zámostí-Blata	O
+581224	Zámrsk	O
+522775	Zámrsky	O
+505781	Zápy	T
+591955	Zárubice	O
+535362	Záryby	O
+581232	Zářecká Lhota	O
+589161	Záříčí	O
+563854	Zásada	T
+533921	Zásmuky	M
+584207	Zastávka	O
+587257	Zástřizly	O
+545236	Zašová	O
+591963	Zašovice	O
+597988	Zátor	O
+553492	Závada	O
+542601	Zavidov	O
+586005	Závist	O
+568473	Závišice	O
+557463	Zavlekov	O
+599778	Závraty	O
+542610	Zbečno	O
+550035	Zbelítov	O
+564320	Zbenice	O
+550043	Zběšičky	O
+588211	Zbilidy	O
+588229	Zbinohy	O
+560260	Zbiroh	M
+534609	Zbizuby	O
+595161	Zblovice	O
+570338	Zborov	O
+589187	Zborovice	O
+578312	Zborovy	O
+599697	Zbožíčko	O
+584215	Zbraslav	O
+582727	Zbraslavec	O
+534617	Zbraslavice	O
+566977	Zbrašín	O
+559661	Zbůch	O
+539872	Zbuzany	O
+568449	Zbyslavice	O
+534625	Zbýšov	O
+584223	Zbýšov	M
+593699	Zbýšov	O
+550701	Zbytiny	O
+545244	Zděchov	O
+573744	Zdechovice	O
+576026	Zdechovice	O
+576930	Zdelov	O
+558583	Zdemyslice	O
+588245	Zdeňkov	O
+573876	Zderaz	O
+571814	Zdětín	O
+590223	Zdětín	O
+539058	Zdiby	O
+532011	Zdice	M
+550728	Zdíkov	O
+564541	Zdislava	O
+531022	Zdislavice	T
+548847	Zdobín	O
+576948	Zdobnice	O
+589195	Zdounky	O
+513512	Zduchovice	O
+593702	Zelená Hora	O
+573183	Zelenecká Lhota	O
+539066	Zeleneč	O
+558591	Zemětice	O
+541460	Zhoř	O
+550060	Zhoř	O
+582735	Zhoř	O
+588253	Zhoř	O
+599034	Zhoř u Mladé Vožice	O
+560430	Zhoř u Tábora	O
+561363	Zhořec	O
+571423	Zichovec	O
+592854	Zlámanec	O
+513644	Zlatá	O
+545864	Zlatá Koruna	O
+563862	Zlatá Olešnice	O
+579866	Zlatá Olešnice	O
+597996	Zlaté Hory	M
+598666	Zlátenka	O
+539881	Zlatníky-Hodkovice	O
+592862	Zlechov	O
+585068	Zlín	S
+545341	Zliv	M
+589217	Zlobice	O
+531511	Zlončice	O
+533114	Zlonice	T
+539082	Zlonín	O
+535389	Zlosyň	O
+599271	Zlukov	O
+597139	Znětínek	O
+593711	Znojmo	M
+534633	Zruč nad Sázavou	M
+559679	Zruč-Senec	O
+545872	Zubčice	O
+568384	Zubrnice	O
+545252	Zubří	M
+597147	Zubří	O
+539091	Zvánovice	O
+591980	Zvěrkovice	O
+553409	Zvěrotice	O
+534862	Zvěřínek	O
+531049	Zvěstov	O
+548626	Zvěstovice	O
+535591	Zvíkov	O
+536237	Zvíkov	O
+541061	Zvíkovec	T
+562165	Zvíkovské Podhradí	O
+539902	Zvole	O
+541478	Zvole	O
+597155	Zvole	O
+533122	Zvoleněves	O
+588261	Zvolenovice	O
+536873	Zvotoky	O
+584231	Žabčice	O
+552691	Žabeň	O
+513261	Žabonosy	O
+545368	Žabovřesky	O
+565938	Žabovřesky nad Ohří	O
+579874	Žacléř	M
+586781	Žádovice	O
+530182	Žákava	O
+523453	Žákovice	O
+534641	Žáky	O
+567876	Žalany	O
+565946	Žalhostice	O
+589225	Žalkovice	O
+581259	Žamberk	M
+581267	Žampach	O
+562297	Žandov	M
+545376	Žár	O
+576042	Žáravice	O
+586790	Žarošice	O
+529923	Žárovná	O
+584240	Žatčany	O
+566985	Žatec	M
+588270	Žatec	O
+513164	Ždánice	O
+586803	Ždánice	M
+597163	Ždánice	O
+554472	Ždánov	O
+529761	Žďár	O
+536971	Žďár	O
+582743	Žďár	O
+598518	Žďár	O
+598861	Žďár	O
+574686	Žďár nad Metují	O
+576956	Žďár nad Orlicí	O
+595209	Žďár nad Sázavou	M
+597171	Žďárec	O
+544604	Žďárek	O
+574694	Žďárky	O
+582751	Žďárná	O
+514195	Ždírec	O
+530662	Ždírec	O
+558605	Ždírec	O
+588288	Ždírec	O
+569780	Ždírec nad Doubravou	M
+532029	Žebrák	M
+538035	Žehuň	O
+534650	Žehušice	T
+523640	Želatovice	O
+553417	Želeč	O
+590240	Želeč	O
+552399	Želechovice	O
+500011	Želechovice nad Dřevnicí	O
+567426	Želenice	O
+599425	Želenice	O
+584266	Želešice	O
+591998	Želetava	T
+586811	Želetice	O
+595179	Želetice	O
+599417	Železná	O
+557528	Železná Ruda	M
+584274	Železné	O
+573825	Železnice	M
+563871	Železný Brod	M
+549215	Želiv	O
+572195	Želivsko	O
+535397	Želízy	O
+530565	Želkovice	O
+550761	Želnava	O
+568732	Ženklava	O
+589233	Žeranovice	O
+586820	Žeravice	O
+586838	Žeraviny	O
+536989	Žerčice	O
+573833	Žeretice	O
+568163	Žermanice	O
+574708	Žernov	O
+577723	Žernov	O
+537209	Žernovice	O
+582760	Žernovník	O
+595187	Žerotice	O
+505862	Žerotín	O
+543012	Žerotín	O
+582778	Žerůtky	O
+595195	Žerůtky	O
+584282	Židlochovice	M
+536997	Židněves	O
+565954	Židovice	O
+573841	Židovice	O
+559695	Žihle	O
+557536	Žihobce	O
+581275	Žichlínek	O
+557544	Žichovice	O
+533149	Žilina	O
+559709	Žilov	O
+567884	Žim	O
+545384	Žimutice	O
+558630	Žinkovy	T
+561908	Žirov	O
+549231	Žirovnice	M
+563897	Žíšov	O
+565962	Žitenice	O
+592871	Žítková	O
+503410	Žitovlice	O
+576051	Živanice	O
+540137	Životice	O
+547000	Životice u Nového Jičína	O
+533947	Žiželice	O
+567019	Žiželice	O
+533157	Žižice	O
+569801	Žižkovo Pole	O
+574091	Žlebské Chvalovice	O
+534668	Žleby	O
+573850	Žlunice	O
+586013	Žlutava	O
+555762	Žlutice	M
+541575	Žulová	M
+572641	Žumberk	T
+562424	Županovice	O
+564338	Županovice	O

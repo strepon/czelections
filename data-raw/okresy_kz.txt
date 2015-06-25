@@ -1,0 +1,77 @@
+no	nuts	name
+2101	CZ0201	Benešov
+2102	CZ0202	Beroun
+2103	CZ0203	Kladno
+2104	CZ0204	Kolín
+2105	CZ0205	Kutná Hora
+2106	CZ0206	Mělník
+2107	CZ0207	Mladá Boleslav
+2108	CZ0208	Nymburk
+2109	CZ0209	Praha-východ
+2110	CZ020A	Praha-západ
+2111	CZ020B	Příbram
+2112	CZ020C	Rakovník
+3101	CZ0311	České Budějovice
+3102	CZ0312	Český Krumlov
+3103	CZ0313	Jindřichův Hradec
+3104	CZ0314	Písek
+3105	CZ0315	Prachatice
+3106	CZ0316	Strakonice
+3107	CZ0317	Tábor
+3201	CZ0321	Domažlice
+3202	CZ0322	Klatovy
+3203	CZ0323	Plzeň-město
+3204	CZ0324	Plzeň-jih
+3205	CZ0325	Plzeň-sever
+3206	CZ0326	Rokycany
+3207	CZ0327	Tachov
+4101	CZ0411	Cheb
+4102	CZ0412	Karlovy Vary
+4103	CZ0413	Sokolov
+4201	CZ0421	Děčín
+4202	CZ0422	Chomutov
+4203	CZ0423	Litoměřice
+4204	CZ0424	Louny
+4205	CZ0425	Most
+4206	CZ0426	Teplice
+4207	CZ0427	Ústí nad Labem
+5101	CZ0511	Česká Lípa
+5102	CZ0512	Jablonec nad Nisou
+5103	CZ0513	Liberec
+5104	CZ0514	Semily
+5201	CZ0521	Hradec Králové
+5202	CZ0522	Jičín
+5203	CZ0523	Náchod
+5204	CZ0524	Rychnov nad Kněžnou
+5205	CZ0525	Trutnov
+5301	CZ0531	Chrudim
+5302	CZ0532	Pardubice
+5303	CZ0533	Svitavy
+5304	CZ0534	Ústí nad Orlicí
+6101	CZ0631	Havlíčkův Brod
+6102	CZ0632	Jihlava
+6103	CZ0633	Pelhřimov
+6104	CZ0634	Třebíč
+6105	CZ0635	Žďár nad Sázavou
+6201	CZ0641	Blansko
+6202	CZ0642	Brno-město
+6203	CZ0643	Brno-venkov
+6204	CZ0644	Břeclav
+6205	CZ0645	Hodonín
+6206	CZ0646	Vyškov
+6207	CZ0647	Znojmo
+7101	CZ0711	Jeseník
+7102	CZ0712	Olomouc
+7103	CZ0713	Prostějov
+7104	CZ0714	Přerov
+7105	CZ0715	Šumperk
+7201	CZ0721	Kroměříž
+7202	CZ0722	Uherské Hradiště
+7203	CZ0723	Vsetín
+7204	CZ0724	Zlín
+8101	CZ0801	Bruntál
+8102	CZ0802	Frýdek-Místek
+8103	CZ0803	Karviná
+8104	CZ0804	Nový Jičín
+8105	CZ0805	Opava
+8106	CZ0806	Ostrava-město

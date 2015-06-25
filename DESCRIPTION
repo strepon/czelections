@@ -1,0 +1,14 @@
+Package: czelections
+Title: Czech Elections Data for Municipalities
+Version: 2015.06
+Date: 2015-06-25
+Author: Stanislav Horacek
+Maintainer: Stanislav Horacek <stanislav.horacek@gmail.com>
+Description: Datasets of votes in various election types in the Czech Republic,
+    aggregated for municipalities (including an overview of them).
+License: file LICENSE
+LazyData: true
+Encoding: UTF-8
+Depends:
+    R (>= 2.15)
+URL: http://github.com/strepon/czelections
