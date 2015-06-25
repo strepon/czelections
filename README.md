@@ -11,6 +11,6 @@ agregována pro obce, součástí je také přehled obcí.
 ## Installation
 
 ```
-require(devtools)
+library(devtools)
 install_github("strepon/czelections")
 ```
