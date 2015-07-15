@@ -63,11 +63,13 @@ setMethod("create_parties", c("election_prez"),
     function(election) {
         dbf_names = c(reg = "PERK.dbf", cis = "CPP.DBF")
         for (type in c("reg", "cis")) {
-            tmp  = read.dbf(dbf_names[type], as.is = TRUE)
+            tmp = read.dbf(dbf_names[type], as.is = TRUE)
+            if (type == "reg")
+                tmp[, c("JMENO", "PRIJMENI")] = iconv(cbind(tmp$JMENO, tmp$PRIJMENI), "CP852", "UTF-8")
+            else
+                tmp[, c("NAZEV_STRP", "ZKRATKAP8")] = iconv(cbind(tmp$NAZEV_STRP, tmp$ZKRATKAP8), "CP852", "UTF-8")
             file.remove(dbf_names[type])
-            write.table(tmp, "tmp.txt", row.names = FALSE, col.names = TRUE, quote = FALSE, sep = "\t")
-            assign(type, read.table("tmp.txt", sep = "\t", fileEncoding = "cp852", stringsAsFactors = FALSE, header = TRUE))
-            file.remove("tmp.txt")
+            assign(type, tmp)
         }
         cands = reg[, c("CKAND", "JMENO", "PRIJMENI", "PSTRANA")]
         for (parnam in c("NAZEV_STRP", "ZKRATKAP8"))
@@ -132,10 +134,8 @@ setMethod("create_parties", c("election_se"),
 
 read_parties_dbf <- function(dbf_file) {
     reg = read.dbf(dbf_file, as.is = TRUE)
+    reg[, c("NAZEVCELK", "ZKRATKAK8", "ZKRATKAK30")] = iconv(cbind(reg$NAZEVCELK, reg$ZKRATKAK8, reg$ZKRATKAK30), "CP852", "UTF-8")
     file.remove(dbf_file)
-    write.table(reg, "tmp.txt", row.names = FALSE, col.names = TRUE, quote = FALSE, sep = "\t")
-    reg = read.table("tmp.txt", sep = "\t", fileEncoding = "cp852", stringsAsFactors = FALSE, header = TRUE)
-    file.remove("tmp.txt")
     reg$ZKRATKAK8[is.na(reg$ZKRATKAK8)] = reg$ZKRATKAK30[is.na(reg$ZKRATKAK8)]
     parties = reg[, c("KSTRANA", "NAZEVCELK", "ZKRATKAK8")]
     parties = unique(parties)

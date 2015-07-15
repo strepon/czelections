@@ -1,7 +1,6 @@
 Package: czelections
 Title: Czech Elections Data for Municipalities
-Version: 2015.06
-Date: 2015-06-25
+Version: 2015.06.9000
 Author: Stanislav Horacek
 Maintainer: Stanislav Horacek <stanislav.horacek@gmail.com>
 Description: Datasets of votes in various election types in the Czech Republic,
