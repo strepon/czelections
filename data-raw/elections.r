@@ -252,6 +252,7 @@ setMethod("create_data", c("election_se"),
             df$lau2 = rep(tmp_df[[3]], each = hlasy_count)
             df$candid_no = rep(hlasy_num, nrow(df) / hlasy_count)
             df$votes = c(t(as.matrix(tmp_df[, 4:ncol(tmp_df)])))
+            df = df[df$votes != "0", ]
 
             # sums for municipalities (data are for districts)
             sum_ucast = empty_ucast
@@ -402,7 +403,6 @@ setMethod("party_to_results", c("election_se"),
         df[, c("party", "candidate")] = parties[party_pos, c("abbr", "candidate")]
         if (sum(df$votes[which(is.na(party_pos))]) != 0)
             stop(paste0(election@name, ": some votes that cannot be assigned to candidates."))
-        df = df[-which(is.na(party_pos)), ] # remove redundant rows because all constituencis have the same fixed number of candidates
         df[, c("party", "candidate", "constituency", "date", "round", "lau2")] = lapply(df[, c("party", "candidate", "constituency", "date", "round", "lau2")], as.factor)
         return(df)
     }
